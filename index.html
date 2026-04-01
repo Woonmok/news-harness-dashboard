@@ -697,7 +697,7 @@
     (function(){
       const toggle = document.querySelector('[data-theme-toggle]');
       const root = document.documentElement;
-      let theme = matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+      let theme = 'dark';  // 다크 모드 기본
       root.setAttribute('data-theme', theme);
       updateToggleIcon();
 
