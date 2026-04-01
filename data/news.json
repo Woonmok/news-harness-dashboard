@@ -1,0 +1,234 @@
+{
+  "generated_at": "2026-04-01T21:15:55+09:00",
+  "total_count": 23,
+  "briefing": {
+    "highlights": [
+      "[Cultured Meat] “세포배양육은 검증 안 된 인조식품…서두르다 국민건강 위협” - 더메디컬",
+      "[Cultured Meat] “세포배양육 안전성 검증 미흡…상업화 추진은 시기상조” 지적 - 한국농어민신문",
+      "[High-End Audio] Home Page",
+      "[Listeria Free] English infection data reveals stable situation",
+      "[Listeria Free] Cheese in Hello Fresh meal kits recalled because of Listeria"
+    ],
+    "campaign_advice": "오늘 뉴스 23건 (Computer & AI 5건, Cultured Meat 5건, Global Biz 4건, High-End Audio 5건, Listeria Free 4건). 주요 동향을 확인하고 유권자 관심 이슈를 파악하세요.",
+    "farm_advice": "오늘 뉴스 23건 수집. 농업/식품 관련 정책 변화와 시장 기회를 점검하세요."
+  },
+  "categories": {
+    "Listeria Free": [
+      {
+        "title": "English infection data reveals stable situation",
+        "source": "Food Safety News",
+        "link": "https://www.foodsafetynews.com/2026/03/english-infection-data-reveals-stable-situation/",
+        "published": "2026-03-31",
+        "summary": "There was a decline in Campylobacter cases in England in 2025 while Salmonella, Listeria and E. coli O157 hardly changed compared to the year before.Figures recently released by the UK Health Security Agency (UKHSA) show the number of confirmed laboratory reports for gastrointestinal infections in England, including cases acquired",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "Cheese in Hello Fresh meal kits recalled because of Listeria",
+        "source": "Food Safety News",
+        "link": "https://www.foodsafetynews.com/2026/03/cheese-in-hello-fresh-meal-kits-recalled-because-of-listeria/",
+        "published": "2026-03-31",
+        "summary": "Cheese ingredients included in certain Hello Fresh brand meal kits has been recalled in Canada because of Listeria monocytogenes contamination.The recall includes shredded Parmesan cheese, cheese curds, feta cheese, goat cheese and Mozzarella cheese. The recalled cheese is not branded. It was sold nationwide. The recall was triggered by",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "Cardinal Health Issues Voluntary Nationwide Recall of Webcol™ Large Alcohol Prep Pad",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/cardinal-health-issues-voluntary-nationwide-recall-webcoltm-large-alcohol-prep-pad",
+        "published": "2026-03-19",
+        "summary": "DUBLIN, Ohio, March 19, 2026 – Cardinal Health has issued a voluntary recall for select lots of Webcol™ Large Alcohol Prep Pads (70% isopropyl alcohol) to the consumer level. The product is being recalled due to microbial contamination identified as Paenibacillus phoenicis.",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "USDA reports Listeria was top cause of outbreaks it investigated in FY 2025",
+        "source": "Food Safety News",
+        "link": "https://www.foodsafetynews.com/2026/04/usda-reports-listeria-was-top-cause-of-outbreaks-it-investigated-in-fy-2025/",
+        "published": "2026-04-01",
+        "summary": "The agency has authority over meat, poultry and processed egg products.",
+        "keywords": [],
+        "ai_insight": ""
+      }
+    ],
+    "Cultured Meat": [
+      {
+        "title": "“세포배양육은 검증 안 된 인조식품…서두르다 국민건강 위협” - 더메디컬",
+        "source": "Google News - 배양육",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZHRZS0dlbE41SzJybl9pejZLOE13b1Rqd0pxVk9xU0lNWHJMMWxyQWxiYUV1OFdpSVpoYkMyQy1Db0FwbVJkTVM3V0pVa0QyMHFNclBLUHM0T1dRREtiV0ppUHd3MVJRT1HSAW5BVV95cUxNeEpTcUJEMmJzODI0TGx2aFhDN21pcGs1d1BfdWlXZTFTdFo4dnJ0RWlQMzRqSzNWRHk4WlBpWXFRdkxsZnRWMDZmbjg3cVRzbEdQWEZoZ29mR1h5V1lEYk9tYjNFZGFUcDM2UlBxUQ?oc=5",
+        "published": "2025-12-10",
+        "summary": "“세포배양육은 검증 안 된 인조식품…서두르다 국민건강 위협”&nbsp;&nbsp;더메디컬",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "“세포배양육 안전성 검증 미흡…상업화 추진은 시기상조” 지적 - 한국농어민신문",
+        "source": "Google News - 배양육",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XTFFnYmxqdTZLZUJZX3VLbDVwcEFrZ2ZhOVkxUlNtOVRFb25DNVZGUWdCdF91MFVrdkVUSGw5eUhrYVJwVFFvTGVBcjFtLXQ5NXBLaDVncTFYMGlDSHB3eHVjblRCNm54TmV1ag?oc=5",
+        "published": "2025-09-16",
+        "summary": "“세포배양육 안전성 검증 미흡…상업화 추진은 시기상조” 지적&nbsp;&nbsp;한국농어민신문",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "그린바이오 첨병 '배양육', 언제쯤 우리 식탁 오를까 - 비즈한국",
+        "source": "Google News - 배양육",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UNnRoZjZMOTVURVE1SWtEdTNNR1RwQnFpMUpWQV80TnlmWmhLUVl4WW5VSGNWemdVMGFWNzJGZkJaWnFwaWdiNTJhS0JQd2ZKMkpIZmJR?oc=5",
+        "published": "2025-10-20",
+        "summary": "그린바이오 첨병 '배양육', 언제쯤 우리 식탁 오를까&nbsp;&nbsp;비즈한국",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "고품질 배양육 생산 혁신, 실마리 찾아낸 건국대 연구팀 - 뉴스와이어",
+        "source": "Google News - 배양육",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1USTNBWERDNnY3SWxFY2RPUFBYMmlYZE85MGlRdzdiMnktcjkybVZuckJRS3JxWExTai01UC1QWnFoUDE1STRMSTVHcU5ocHFoRDR4a3hTRTVsRS1TWnNJ?oc=5",
+        "published": "2026-02-12",
+        "summary": "고품질 배양육 생산 혁신, 실마리 찾아낸 건국대 연구팀&nbsp;&nbsp;뉴스와이어",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "[글로벌 리포트] 배양육, ‘미래’ 넘어 ‘시장’으로 … 2026년 상업화 골든타임 도래 - 헬스코리아뉴스",
+        "source": "Google News - 배양육",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55TTF2Z19mZXN3a0VHYW9fRWZ5Z3FPUmZKMmtDYzBqcUM3WjBoT3NJdG00TkxjR1VKV1NLWEhjUDZhNmxTM09YaHRIV01iQkZnekt6VlF3bEJFcWNQbWdlbGRmTEFJa0E?oc=5",
+        "published": "2026-01-07",
+        "summary": "[글로벌 리포트] 배양육, ‘미래’ 넘어 ‘시장’으로 … 2026년 상업화 골든타임 도래&nbsp;&nbsp;헬스코리아뉴스",
+        "keywords": [],
+        "ai_insight": ""
+      }
+    ],
+    "High-End Audio": [
+      {
+        "title": "Home Page",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/home-page",
+        "published": "2010-06-17",
+        "summary": "Home Page Stereophile covers everything high-end and audiophile audio. Turntables and music servers, to solid-state and tube amplifiers and preamps, to loudspeakers. Len Porcano Thu, 06/17/2010 - 04:05",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "The Lemay Audio Room at Montreal Audiofest 2026",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/lemay-audio-room-montreal-audiofest-2026",
+        "published": "2026-03-31",
+        "summary": "The Lemay Audio Room at Montreal Audiofest 2026 Mike Mettler Tue, 03/31/2026 - 13:13 Show Promo Image In our latest video interview from Montreal Audiofest 2026, Robert Schryer speaks with Lemay Audio founder François Lemay about the equipment shown in this room, including Lemay Audio Dayton Wright Hommage 7.3 speakers, a Tenor Audio 175 HP amplifier, and a Grimm Audio MU2 server/DAC/preamplifier. Robert Schryer 0 0",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "Bliss Acoustics Room at Montreal Audiofest 2026",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/bliss-acoustics-room-montreal-audiofest-2026",
+        "published": "2026-03-30",
+        "summary": "Bliss Acoustics Room at Montreal Audiofest 2026 Mike Mettler Mon, 03/30/2026 - 13:02 Show Promo Image In our latest video interview from Montreal Audiofest 2026, Robert Schryer speaks with Bliss Acoustics proprietor Dragan Reljic about the equipment shown in this room, including the J.Sikora Reference turntable, Gryphon Antileon Revelation amplifier, and Kroma Atelier Jovita loudspeakers. Robert Schryer 0 0",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시 - 데일리시큐",
+        "source": "Google News - 하이파이 오디오",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLZzVSM1RwaEtnNE94dVFyQ0dIZXBhNWgteUU1b2ZqeGNXRnA0NGdaVzBTbXh0dTk0ZndvYTA2c1R0SDZQQXNaTF9odkFJTG1FYWZhbmdRZGphV190RHNJVE1DMTJJOXJldGhTaw?oc=5",
+        "published": "2021-12-10",
+        "summary": "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시&nbsp;&nbsp;데일리시큐",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "아이파이 오디오(ifi Audio), 포터블 DAC 겸 앰프 '고바(Go bar)' 국내 정식출시 - 디지털포스트(PC사랑)",
+        "source": "Google News - 하이파이 오디오",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uT3Z3NHZzUHZMWEVid08zZVBkdXVHR0ZoTThFTzZub25CZFpOMFlmdFdmbTVXZUdESnVjc0g5WTJMQzludThER0dDVFptc1lKNC11eTFRTVBudFZWZy1FQjV1bGp5RG5OYW5n?oc=5",
+        "published": "2022-08-30",
+        "summary": "아이파이 오디오(ifi Audio), 포터블 DAC 겸 앰프 '고바(Go bar)' 국내 정식출시&nbsp;&nbsp;디지털포스트(PC사랑)",
+        "keywords": [],
+        "ai_insight": ""
+      }
+    ],
+    "Computer & AI": [
+      {
+        "title": "GPU 잡는 NPU 한국에 있다…AI반도체 2세대 승부사들 - 중앙일보",
+        "source": "Google News - 인공지능",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mbGE0R3hlOWUxeEZ6UnVQMTNocUhpbzZzNlM0VWFQRFluSVV2NjNoWEk1RmVLVkcyQmdTazFmdVVmRkFtcXlxSjNNMEx1enY4cVluZ1pn?oc=5",
+        "published": "2026-03-28",
+        "summary": "GPU 잡는 NPU 한국에 있다…AI반도체 2세대 승부사들&nbsp;&nbsp;중앙일보",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "[반도체·전자제조공정로봇 컨퍼런스”②] ‘AI와 로봇이 만드는 대한민국 제조의 전략적 방향’ - 로봇신문",
+        "source": "Google News - 인공지능",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VR3BGRDQwUjVWS1otTlJHeEVfZ0pfSDRiakw2QUdDdkMwVFgwaDFvWng4RnMxRXM0ZGpMSlVQMmdTMzQyUURjd3Z0UFNVbmt0UEhGdnBuY0tVeno4eFVDU0s0NmhTbHRWa1p4aw?oc=5",
+        "published": "2026-04-01",
+        "summary": "[반도체·전자제조공정로봇 컨퍼런스”②] ‘AI와 로봇이 만드는 대한민국 제조의 전략적 방향’&nbsp;&nbsp;로봇신문",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "published": "2026-03-31",
+        "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+        "published": "2026-03-31",
+        "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+        "published": "2026-03-30",
+        "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+        "keywords": [],
+        "ai_insight": ""
+      }
+    ],
+    "Global Biz": [
+      {
+        "title": "More Than an Energy Crisis: Disruptions in the Strait of Hormuz Underscore the Fragility of Modern Supply Chains - Global Trade Magazine",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbUExV2J5M3I4d1IwVEh6bHFQRS1adXlZU3ItU0lZQmF5bjMxWHVlYW9tNjBGaFVJN05rZ3ZNYUpNTUNDenl0eGZGQjJCU21WZTFZVTJjOWc3T3VpRG5fVk9tOUw3ZmlYaXp6czlJVHYwMHJMMVNUYTBPR3JBU3JsRDF3X2tadTZoRnlFNUhhTzZnakJ3MktOc0ZxY0w4bXpveVR2aHA3YWhSNFd2SUxNTzAwUHBBYjRBaXBzc1lxTUlOM0pFQnBycU04enhyS0E2UGZESDQtY1FzTUE?oc=5",
+        "published": "2026-04-01",
+        "summary": "More Than an Energy Crisis: Disruptions in the Strait of Hormuz Underscore the Fragility of Modern Supply Chains&nbsp;&nbsp;Global Trade Magazine",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "GLOBAL ECONOMY Factory input costs soar worldwide as Iran war snarls up supply chains - Reuters",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNS1VLVJHRzhhRDEwRk1qZGkzZmloVmQ3aC0yRTlKTGRpWk5jMTNCRlY4Ny1mQ0ZzMmYxUk5HQXVGWmRFOHVvQl96WVM3Z05MNjA3OVlOWG5Yc3dsb3pzRHRNSlQtUDFxSm9KS0N2XzFGMGhVdGNvWWJoZHl2NnM4ZGFrUzlLSlFDYzFTcVhsUjJPX1lzR1poLXhvSDcweXVjWWFRVkJnR0VUaGJ6ZlBtaDdNa1c?oc=5",
+        "published": "2026-04-01",
+        "summary": "GLOBAL ECONOMY Factory input costs soar worldwide as Iran war snarls up supply chains&nbsp;&nbsp;Reuters",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "Jamie Dimon says US must 'finish this thing' with Iran to protect global economy - Fox Business",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOTJObWNkbGd6MkRkWWVjOXBqQzczNmJaWFFRSXJ2T0JoOXAxX0ZacGdRNzJ1NWNyS3h0eEtjbFllMGoxNTlmNmxJUEQ5Njk0bFk4QkFsRXpLaWlsUmdPb2x5bGhybG5TVTJXNmM2THlqOGExTWROZGU1VFdrUF9OYjR3UVRBelZhVEV3bVZoUFlWTkZBQTRNSDF0dFpNS3FK0gGmAUFVX3lxTFBjV3oxZ0RhNnNlVUR0VTdadW9iNTJqTG1kenNDSDJRSEViMHMwMnNmNFhhb013MGxkWnpUc1hybWZHd1UyUFU1NjR4bkdOVUVqdjNSTGFORnVLQ0xxZlBqb2ptdllsOTcwZDlNZC1Ma21NS3prMW5NVTFCZm51NWJPblVxajMxeDNWS2E0RGRseGFDV0ljM3NaTWhrQUR3NzczZHVKeWc?oc=5",
+        "published": "2026-03-31",
+        "summary": "Jamie Dimon says US must 'finish this thing' with Iran to protect global economy&nbsp;&nbsp;Fox Business",
+        "keywords": [],
+        "ai_insight": ""
+      },
+      {
+        "title": "'한-인니 비즈니스 포럼' 개최…양국 공급망 협력 가속(종합)",
+        "source": "연합뉴스 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260401179751003",
+        "published": "2026-04-01",
+        "summary": "(세종·서울=연합뉴스) 신창용 강태우 기자 = 한국과 인도네시아 기업들이 전기차와 배터리 핵심 광물인 니켈을 중심으로 경제협력을 강화하기로 했다...",
+        "keywords": [],
+        "ai_insight": ""
+      }
+    ]
+  }
+}
