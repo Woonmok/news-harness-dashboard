@@ -1,251 +1,285 @@
 {
-  "generated_at": "2026-04-01T22:22:54+09:00",
+  "generated_at": "2026-04-03T08:07:42.757095+09:00",
   "total_count": 23,
   "briefing": {
     "highlights": [
-      "리스테리아 오염으로 인한 식품 리콜 증가: 영국 감염 데이터 안정적이나 USDA는 2025년 리스테리아를 주요 발병원인으로 보고, 캐나다 헬로프레시 치즈 리콜 등 미생물 오염이 식품안전 최대 위협",
-      "배양육 상업화 2026년 골든타임 도래: 안전성 검증 미흡 우려 속에서도 글로벌 시장 진입 시점 임박, 건국대 등 국내 고품질 생산 기술 확보 중",
-      "AI 반도체 경쟁 심화: OpenAI $122B 펀드레이징, NPU 기술 경쟁 확대로 한국 AI 반도체 산업의 전략적 기로"
+      "Voluntary Recall",
+      "Live chicks and ducklings as Easter gifts pose Salmonella risk",
+      "USDA warns about Walmart chicken nuggets contaminated with lead",
+      "FDA closes investigation into Salmonella outbreak traced to moringa powder",
+      "Cultivated meat: Science, sustainability and the vedic vegetarianism - The Hans India"
     ],
-    "campaign_advice": "식품안전은 유권자 일상과 직결된 정책이므로, 미생물 오염 방지 강화책(무작위 수거 검사, 신속 검사 체계 확대)을 정책공약에 포함시켜 신뢰도를 높일 수 있습니다. 배양육·AI반도체 등 미래산업 육성 의지를 함께 제시하여 혁신성과 안전성의 균형을 강조하면 중도층과 청년층 모두를 공략할 수 있습니다.",
-    "farm_advice": "배양육 상업화 임박에 대비해 축산농가는 기존 축산물의 프리미엄화(동물복지 인증, 지역 브랜드) 전략으로 차별화를 서둘러야 합니다. 미생물 오염 리콜 증가 추세를 반영해 농장 위생관리 기준 자체 강화 및 인증(HACCP, 스마트팜 병해충 관리)을 통해 시장신뢰도를 선제적으로 확보하는 것이 경쟁력입니다."
+    "campaign_advice": "식품안전·신기술·거시경제 이슈가 동시에 움직이는 날에는 메시지를 2~3개 핵심 프레임으로 압축하고, 각 프레임별 근거 링크를 미리 준비해 대응 속도를 높이세요.",
+    "farm_advice": "식품안전 리콜과 대체단백 트렌드를 함께 보며, 생산·유통 단계 위생관리(기록/온도/검사)와 고부가가치 가공·브랜딩 실험을 병행하면 리스크를 줄이면서 기회를 잡을 수 있습니다."
   },
   "categories": {
     "Listeria Free": [
       {
-        "title": "English infection data reveals stable situation",
-        "source": "Food Safety News",
-        "link": "https://www.foodsafetynews.com/2026/03/english-infection-data-reveals-stable-situation/",
-        "published": "2026-03-31",
-        "summary": "There was a decline in Campylobacter cases in England in 2025 while Salmonella, Listeria and E. coli O157 hardly changed compared to the year before.Figures recently released by the UK Health Security Agency (UKHSA) show the number of confirmed laboratory reports for gastrointestinal infections in England, including cases acquired",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Voluntary Recall",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/voluntary-recall",
+        "published": "2026-04-03",
+        "summary": "The FDA has issued an Advisory without batch numbers or expiration dates. At the request of the FDA, RAW FARM is issuing a Voluntary Recall of the batches of cheese below and any batches produced prior to these dates.",
+        "keywords": [
+          "리콜"
+        ],
+        "ai_insight": "리콜/식품안전 이슈는 브랜드 신뢰와 규제 리스크를 좌우하므로, 공급망 모니터링과 위기 커뮤니케이션 준비가 중요합니다."
       },
       {
-        "title": "Cheese in Hello Fresh meal kits recalled because of Listeria",
+        "title": "Live chicks and ducklings as Easter gifts pose Salmonella risk",
         "source": "Food Safety News",
-        "link": "https://www.foodsafetynews.com/2026/03/cheese-in-hello-fresh-meal-kits-recalled-because-of-listeria/",
-        "published": "2026-03-31",
-        "summary": "Cheese ingredients included in certain Hello Fresh brand meal kits has been recalled in Canada because of Listeria monocytogenes contamination.The recall includes shredded Parmesan cheese, cheese curds, feta cheese, goat cheese and Mozzarella cheese. The recalled cheese is not branded. It was sold nationwide. The recall was triggered by",
-        "keywords": [],
-        "ai_insight": ""
+        "link": "https://www.foodsafetynews.com/2026/04/live-chicks-and-ducklings-as-easter-gifts-pose-salmonella-risk/",
+        "published": "2026-04-02",
+        "summary": "Gifting live chicks, ducklings and bunnies as Easter presents remains a popular tradition, but public health officials warn the practice continues to fuel Salmonella outbreaks and animal welfare concerns.Salmonella outbreaks linked to backy",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "리콜/식품안전 이슈는 브랜드 신뢰와 규제 리스크를 좌우하므로, 공급망 모니터링과 위기 커뮤니케이션 준비가 중요합니다."
       },
       {
-        "title": "USDA reports Listeria was top cause of outbreaks it investigated in FY 2025",
+        "title": "USDA warns about Walmart chicken nuggets contaminated with lead",
         "source": "Food Safety News",
-        "link": "https://www.foodsafetynews.com/2026/04/usda-reports-listeria-was-top-cause-of-outbreaks-it-investigated-in-fy-2025/",
-        "published": "2026-04-01",
-        "summary": "The agency has authority over meat, poultry and processed egg products.",
-        "keywords": [],
-        "ai_insight": ""
+        "link": "https://www.foodsafetynews.com/2026/04/usda-warns-about-walmart-chicken-nuggets-contaminated-with-lead/",
+        "published": "2026-04-02",
+        "summary": "The USDA&#x2019;s Food Safety and Inspection Service (FSIS) has issued a public health alert for frozen, dinosaur-shaped, ready-to-eat chicken nuggets sold at Walmart stores because they may be contaminated with unsafe levels of lead.&#xa0;",
+        "keywords": [
+          "식품",
+          "안전"
+        ],
+        "ai_insight": "리콜/식품안전 이슈는 브랜드 신뢰와 규제 리스크를 좌우하므로, 공급망 모니터링과 위기 커뮤니케이션 준비가 중요합니다."
       },
       {
-        "title": "Microbial contamination tops reasons for recalls in Finland",
+        "title": "FDA closes investigation into Salmonella outbreak traced to moringa powder",
         "source": "Food Safety News",
-        "link": "https://www.foodsafetynews.com/2026/04/microbial-contamination-tops-reasons-for-recalls-in-finland/",
-        "published": "2026-04-01",
-        "summary": "Microbial contamination was the leading cause of Finnish recalls in 2025.There were 299 recalls in Finland this past year, down slightly from 305 in 2024.",
-        "keywords": [],
-        "ai_insight": ""
+        "link": "https://www.foodsafetynews.com/2026/04/fda-closes-investigation-into-salmonella-outbreak-traced-to-moringa-powder/",
+        "published": "2026-04-02",
+        "summary": "The FDA has concluded its investigation into an outbreak of Salmonella infections related to Rosabella-brand moringa powder capsules distributed by Ambrosia Brands LLC.As of April 1, there have been 10 patients from eight states confirmed i",
+        "keywords": [
+          "Listeria Free"
+        ],
+        "ai_insight": "리콜/식품안전 이슈는 브랜드 신뢰와 규제 리스크를 좌우하므로, 공급망 모니터링과 위기 커뮤니케이션 준비가 중요합니다."
       }
     ],
     "Cultured Meat": [
       {
-        "title": "“세포배양육은 검증 안 된 인조식품…서두르다 국민건강 위협” - 더메디컬",
-        "source": "Google News - 배양육",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yZHRZS0dlbE41SzJybl9pejZLOE13b1Rqd0pxVk9xU0lNWHJMMWxyQWxiYUV1OFdpSVpoYkMyQy1Db0FwbVJkTVM3V0pVa0QyMHFNclBLUHM0T1dRREtiV0ppUHd3MVJRT1HSAW5BVV95cUxNeEpTcUJEMmJzODI0TGx2aFhDN21pcGs1d1BfdWlXZTFTdFo4dnJ0RWlQMzRqSzNWRHk4WlBpWXFRdkxsZnRWMDZmbjg3cVRzbEdQWEZoZ29mR1h5V1lEYk9tYjNFZGFUcDM2UlBxUQ?oc=5",
-        "published": "2025-12-10",
-        "summary": "“세포배양육은 검증 안 된 인조식품…서두르다 국민건강 위협”&nbsp;&nbsp;더메디컬",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Cultivated meat: Science, sustainability and the vedic vegetarianism - The Hans India",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeDh6VVlxTWFmZmF3ZzZIMS1vdmtmQ0xKUmVmSFQ5QlhBUFdmZEU0QXVJRWp2cDd6OW96NnF6ZnJpTUhiTndpSHhaTUQ1bS1xQWlxYjRkUTRpN1dpZzBIMTVacFNRSFNfSllWazRpY25MUllGVFlUdGZtMUphMGgwU1Zfcjk4a3VEdU5xWUxuWVlUeng1MXd0eUNvQWlaMENGZUo4SjhUcmxkajVMa3hyOGo1V04?oc=5",
+        "published": "2026-04-02",
+        "summary": "Cultivated meat: Science, sustainability and the vedic vegetarianism&nbsp;&nbsp;The Hans India",
+        "keywords": [
+          "육류",
+          "AI"
+        ],
+        "ai_insight": "배양육 관련 규제·투자·상용화 뉴스는 대체단백 시장의 타이밍을 보여주므로, 파트너십/파일럿을 조기 검토할 만합니다."
       },
       {
-        "title": "“세포배양육 안전성 검증 미흡…상업화 추진은 시기상조” 지적 - 한국농어민신문",
-        "source": "Google News - 배양육",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XTFFnYmxqdTZLZUJZX3VLbDVwcEFrZ2ZhOVkxUlNtOVRFb25DNVZGUWdCdF91MFVrdkVUSGw5eUhrYVJwVFFvTGVBcjFtLXQ5NXBLaDVncTFYMGlDSHB3eHVjblRCNm54TmV1ag?oc=5",
-        "published": "2025-09-16",
-        "summary": "“세포배양육 안전성 검증 미흡…상업화 추진은 시기상조” 지적&nbsp;&nbsp;한국농어민신문",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Wisconsin Governor Vetoes Bill Attempting to Ban Cultivated Meat - Green Queen Media",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNktMa016eUg5WmZnYWplOGRSNmx4eFBZNWJlTG9wWS1tU2hwX2djV014ajRJb0lUYURCTk9OQWlqMG9wSlRRYlhpbFgwU29pdHM5NUZIQmlpZTBUZHd0TGNTZlZyMEZJcmtMSW9yaWR4dTdjVTFjc3ZrRnFDRGFZc0hVYWVfZC1ZVEtpNmpiN0tjaGc?oc=5",
+        "published": "2026-04-02",
+        "summary": "Wisconsin Governor Vetoes Bill Attempting to Ban Cultivated Meat&nbsp;&nbsp;Green Queen Media",
+        "keywords": [
+          "육류"
+        ],
+        "ai_insight": "배양육 관련 규제·투자·상용화 뉴스는 대체단백 시장의 타이밍을 보여주므로, 파트너십/파일럿을 조기 검토할 만합니다."
       },
       {
-        "title": "그린바이오 첨병 '배양육', 언제쯤 우리 식탁 오를까 - 비즈한국",
-        "source": "Google News - 배양육",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UNnRoZjZMOTVURVE1SWtEdTNNR1RwQnFpMUpWQV80TnlmWmhLUVl4WW5VSGNWemdVMGFWNzJGZkJaWnFwaWdiNTJhS0JQd2ZKMkpIZmJR?oc=5",
-        "published": "2025-10-20",
-        "summary": "그린바이오 첨병 '배양육', 언제쯤 우리 식탁 오를까&nbsp;&nbsp;비즈한국",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Federal court upholds Florida's lab-grown meat ban - Farm Progress",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbVBCSGxDNURLWXlMLV9jcDR0NGltMEJpUDUtV2JYWW5GeURiRy1DdWdYSVpodE9yOVNyXzM2RF9PNFJTcXRUSTZ3alU1ZE9zTHJ2cTdTRHFTV0RqQkdpQlFIVkNxclA3dWh5ZjNnZ1hYNEk3RkRLakFNVXRONWR4bDZzSk5qSzdjOC1CaHRESkVHcWJpRE5EOA?oc=5",
+        "published": "2026-04-02",
+        "summary": "Federal court upholds Florida's lab-grown meat ban&nbsp;&nbsp;Farm Progress",
+        "keywords": [
+          "실험실",
+          "육류"
+        ],
+        "ai_insight": "배양육 관련 규제·투자·상용화 뉴스는 대체단백 시장의 타이밍을 보여주므로, 파트너십/파일럿을 조기 검토할 만합니다."
       },
       {
-        "title": "고품질 배양육 생산 혁신, 실마리 찾아낸 건국대 연구팀 - 뉴스와이어",
-        "source": "Google News - 배양육",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1USTNBWERDNnY3SWxFY2RPUFBYMmlYZE85MGlRdzdiMnktcjkybVZuckJRS3JxWExTai01UC1QWnFoUDE1STRMSTVHcU5ocHFoRDR4a3hTRTVsRS1TWnNJ?oc=5",
-        "published": "2026-02-12",
-        "summary": "고품질 배양육 생산 혁신, 실마리 찾아낸 건국대 연구팀&nbsp;&nbsp;뉴스와이어",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Wisconsin’s Governor vetoes lab-grown protein bill - Brownfield Ag News",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzVZV1lRN19wbHV0UkRwZ0lMQ3lyWE5aRWNjS29nSS1PRnRkY2x6RTRyMFJUM3RhakgxbFJnd1F4Y2xjOTZ4S2F4Z3NVZ0NvWUZBeFBSRks3SjJNSnE1UHdGWndGd25TVXlab0lOR0lUa3JibXFDLXQzMTVxR0J6YUdhLTJrUXVrc0FTNy1VOVRfQQ?oc=5",
+        "published": "2026-03-31",
+        "summary": "Wisconsin’s Governor vetoes lab-grown protein bill&nbsp;&nbsp;Brownfield Ag News",
+        "keywords": [
+          "실험실"
+        ],
+        "ai_insight": "배양육 관련 규제·투자·상용화 뉴스는 대체단백 시장의 타이밍을 보여주므로, 파트너십/파일럿을 조기 검토할 만합니다."
       },
       {
-        "title": "[글로벌 리포트] 배양육, ‘미래’ 넘어 ‘시장’으로 … 2026년 상업화 골든타임 도래 - 헬스코리아뉴스",
-        "source": "Google News - 배양육",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55TTF2Z19mZXN3a0VHYW9fRWZ5Z3FPUmZKMmtDYzBqcUM3WjBoT3NJdG00TkxjR1VKV1NLWEhjUDZhNmxTM09YaHRIV01iQkZnekt6VlF3bEJFcWNQbWdlbGRmTEFJa0E?oc=5",
-        "published": "2026-01-07",
-        "summary": "[글로벌 리포트] 배양육, ‘미래’ 넘어 ‘시장’으로 … 2026년 상업화 골든타임 도래&nbsp;&nbsp;헬스코리아뉴스",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Cultured Meat & The Remaking Of The Food System - Madras Courier",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ3V6cmNFZEN2dV9aUVA2LUJHQi1nQV9JVlBON0FYVkxjYWJMSEdyX191eUxESUNLUmUwMmEzemljcklMc1ZVdktUZG5WTEVIQmV5cVF2Zjg0Mk1GVXd6eExrSEFkMzljdU4zU0dZVWVST3J4UlhqZEZ0XzhZMHZjRU9oU1QzTUZHZjFnVg?oc=5",
+        "published": "2026-03-31",
+        "summary": "Cultured Meat & The Remaking Of The Food System&nbsp;&nbsp;Madras Courier",
+        "keywords": [
+          "식품",
+          "배양육",
+          "육류"
+        ],
+        "ai_insight": "배양육 관련 규제·투자·상용화 뉴스는 대체단백 시장의 타이밍을 보여주므로, 파트너십/파일럿을 조기 검토할 만합니다."
       }
     ],
     "High-End Audio": [
       {
-        "title": "Home Page",
-        "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/home-page",
-        "published": "2010-06-17",
-        "summary": "Home Page Stereophile covers everything high-end and audiophile audio. Turntables and music servers, to solid-state and tube amplifiers and preamps, to loudspeakers. Len Porcano Thu, 06/17/2010 - 04:05",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Bentley and Naim bring concert clarity and Atmos audio immersion to Mulliner Virtuoso Collection - The Luxe Review",
+        "source": "Google News - Hi-Fi Audio",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRC1ScmFWVnYweTJWVko5UW9pc3I2bENVLXZWTy0td0FJMmVYbmJGWlpQTWlBNU9JckFYYXlaU19WQ0JxcS1RcDItSHNJSXFpUzBUWGowekMwSXZiWEl2NVQ5WFpQNEhnYURuWUV2N3liQ3hoZzhmNV9UUGpUWDc2aW8tYlVVdHlkdW9jaktVU0tGOHp0aFc2THJaYjlxcDFJelBJYkoxMVBpWGlhemwwOGRkYkF6UE1vM0ctLVpsZmhtaWpnendBdzJmdV9NQlU?oc=5",
+        "published": "2026-04-03",
+        "summary": "Bentley and Naim bring concert clarity and Atmos audio immersion to Mulliner Virtuoso Collection&nbsp;&nbsp;The Luxe Review",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "프리미엄 오디오 수요는 취미·럭셔리 소비 트렌드와 연결되므로, 브랜드 스토리·체험 마케팅·커뮤니티 운영이 성과를 좌우합니다."
       },
       {
-        "title": "The Lemay Audio Room at Montreal Audiofest 2026",
-        "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/lemay-audio-room-montreal-audiofest-2026",
-        "published": "2026-03-31",
-        "summary": "The Lemay Audio Room at Montreal Audiofest 2026 Mike Mettler Tue, 03/31/2026 - 13:13 Show Promo Image In our latest video interview from Montreal Audiofest 2026, Robert Schryer speaks with Lemay Audio founder François Lemay about the equipment shown in this room, including Lemay Audio Dayton Wright Hommage 7.3 speakers, a Tenor Audio 175 HP amplifier, and a Grimm Audio MU2 server/DAC/preamplifier. Robert Schryer 0 0",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Meze Audio introduces ASTRU: new flagship IEM, - Wifi Hifi Magazine",
+        "source": "Google News - Hi-Fi Audio",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qMXUwOVRZVkpiTWFFMGZsbE1jRUQwWDk5TU00NGp3bHpUTDdHTDJlVXh5MFBscHFCMXVCRUg3cXB5X3FSU2s1S1NBZWxtTjZDZU4wVGliZWpUVlRHR25LZXBEWk4xQkJhS0pUY2VpVGczRVBp?oc=5",
+        "published": "2026-04-03",
+        "summary": "Meze Audio introduces ASTRU: new flagship IEM,&nbsp;&nbsp;Wifi Hifi Magazine",
+        "keywords": [
+          "하이파이"
+        ],
+        "ai_insight": "프리미엄 오디오 수요는 취미·럭셔리 소비 트렌드와 연결되므로, 브랜드 스토리·체험 마케팅·커뮤니티 운영이 성과를 좌우합니다."
       },
       {
-        "title": "Bliss Acoustics Room at Montreal Audiofest 2026",
-        "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/bliss-acoustics-room-montreal-audiofest-2026",
-        "published": "2026-03-30",
-        "summary": "Bliss Acoustics Room at Montreal Audiofest 2026 Mike Mettler Mon, 03/30/2026 - 13:02 Show Promo Image In our latest video interview from Montreal Audiofest 2026, Robert Schryer speaks with Bliss Acoustics proprietor Dragan Reljic about the equipment shown in this room, including the J.Sikora Reference turntable, Gryphon Antileon Revelation amplifier, and Kroma Atelier Jovita loudspeakers. Robert Schryer 0 0",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "A Respected Audiophile Brand’s New Hi-Fi Player Is Primed for Compact Stereo Systems - gearpatrol.com",
+        "source": "Google News - Hi-Fi Audio",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NcnRLaFJqeUtIY3NZZ0lpWVZpbmFZVUZ5VjNaSGc5VHpKaVdPMF9IQWdEWXdXZVJNMnVtdnR1NXNncXN3VGJacXRrTHZxSTZQY0dDcmI0RFBEaFk?oc=5",
+        "published": "2026-04-02",
+        "summary": "A Respected Audiophile Brand’s New Hi-Fi Player Is Primed for Compact Stereo Systems&nbsp;&nbsp;gearpatrol.com",
+        "keywords": [
+          "오디오파일"
+        ],
+        "ai_insight": "프리미엄 오디오 수요는 취미·럭셔리 소비 트렌드와 연결되므로, 브랜드 스토리·체험 마케팅·커뮤니티 운영이 성과를 좌우합니다."
       },
       {
-        "title": "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시 - 데일리시큐",
-        "source": "Google News - 하이파이 오디오",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLZzVSM1RwaEtnNE94dVFyQ0dIZXBhNWgteUU1b2ZqeGNXRnA0NGdaVzBTbXh0dTk0ZndvYTA2c1R0SDZQQXNaTF9odkFJTG1FYWZhbmdRZGphV190RHNJVE1DMTJJOXJldGhTaw?oc=5",
-        "published": "2021-12-10",
-        "summary": "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시&nbsp;&nbsp;데일리시큐",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Are these compact British standmounts a tasty snack or an acquired taste? - What Hi-Fi?",
+        "source": "Google News - Hi-Fi Audio",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlpkN05TUmZ2cFVfQTFxVlZ5YnlCdkNRTGQwWkJZeGRjcWhCNnI4cUg1cnFROTJXRURFVktWbmVUWFh0S2xmYm1FbDBlWXVOMklDY0ZnZjFhMWZocU5uaFVFZW9xUWgyMG4wQTh3OWdNMXA2WjFaVGtjRHA2SWNoT2ZqYWxqYl9vQ0VYUmtQcTBBcV92YTNfb1MxUHRnVnVNc2tVTENDNEZ6MUFkWXlOVVpXdGJHSS1aSnVQMDJyUFE4bVVWMVEydVNBM0M?oc=5",
+        "published": "2026-04-02",
+        "summary": "Are these compact British standmounts a tasty snack or an acquired taste?&nbsp;&nbsp;What Hi-Fi?",
+        "keywords": [
+          "High-End Audio"
+        ],
+        "ai_insight": "프리미엄 오디오 수요는 취미·럭셔리 소비 트렌드와 연결되므로, 브랜드 스토리·체험 마케팅·커뮤니티 운영이 성과를 좌우합니다."
       },
       {
-        "title": "아이파이 오디오(ifi Audio), 포터블 DAC 겸 앰프 ‘고바(Go bar)’ 국내 정식 출시! - 에이빙",
-        "source": "Google News - 하이파이 오디오",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JMWk1dkdtZG9POHFGLWlrbVVlb3JtYXktX2N0clptcWRFaTZ0bU1sMmZ4OXI4U09XNk96UG40SjFiUVI1ZWNLbWhOcHVMSEZPZUxPT0ExNW1ZTnFseG85MUxPNjZ2YjDSAWtBVV95cUxQS3FsRE9BS3pKNjc3M01mT2pDVlgtbUJDUGtLOXlhQlVhOUg5UTNfbkhsakhiZmZ1REhTNFVkRDBSSC1iXzRvbnQyM2xhUUVPSnpySEl3dGF6a1ZxQTB5ZnY3U0YtU3lTbmFwOA?oc=5",
-        "published": "2022-08-30",
-        "summary": "아이파이 오디오(ifi Audio), 포터블 DAC 겸 앰프 ‘고바(Go bar)’ 국내 정식 출시!&nbsp;&nbsp;에이빙",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Apple at 50: how Cupertino changed the audio world time and again – and not always for the better - What Hi-Fi?",
+        "source": "Google News - Hi-Fi Audio",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORWtXZjBRd0xGWEtyaE1lVnR3Ry1yc2cwMERHWC1VVFhOMktmeDc3NEVmbVBVSG82ZHo0QmJZcVFhLVhBcThqaTVZeC1QM08xQ2EtT1hOcTNDVFdYbVZBT3V3YlFoRkJWeVRVMkJINXNJM3g2YV9qS1VwTFJtUGZxemljWGR3ZXhLVU9qV2tuWkxOSmRkUGJaSkQ5UkZNZmZHS084S1NLWWZuVXNaVTJLVGxnTTAtWF9QNjZoSWd6ejFRUTA?oc=5",
+        "published": "2026-04-01",
+        "summary": "Apple at 50: how Cupertino changed the audio world time and again – and not always for the better&nbsp;&nbsp;What Hi-Fi?",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "프리미엄 오디오 수요는 취미·럭셔리 소비 트렌드와 연결되므로, 브랜드 스토리·체험 마케팅·커뮤니티 운영이 성과를 좌우합니다."
       }
     ],
     "Computer & AI": [
       {
-        "title": "AI can push your Stream Deck buttons for you",
+        "title": "The best AirPods deals you can get right now",
         "source": "The Verge",
-        "link": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-        "published": "2026-04-01",
-        "summary": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update released today introduces Model Context Protocol (MCP) support, allowing AI assistants like Claude, ChatGPT, and Nvidia G-Assist to find and activate Stream [&#8230;]",
-        "keywords": [],
-        "ai_insight": ""
+        "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+        "published": "2026-04-03",
+        "summary": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Pro 3 and the AirPods 4 (with and without ANC) now consistently receive discounts, as do the&#160;AirPods Pro 3. And while major",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "AI/컴퓨팅 뉴스는 제품 로드맵과 인프라 비용에 직접 영향을 주므로, 모델/칩/클라우드 변화에 맞춰 기술 선택을 유연하게 가져가야 합니다."
       },
       {
-        "title": "GPU 잡는 NPU 한국에 있다…AI반도체 2세대 승부사들 - 중앙일보",
-        "source": "Google News - 인공지능",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mbGE0R3hlOWUxeEZ6UnVQMTNocUhpbzZzNlM0VWFQRFluSVV2NjNoWEk1RmVLVkcyQmdTazFmdVVmRkFtcXlxSjNNMEx1enY4cVluZ1pn?oc=5",
-        "published": "2026-03-28",
-        "summary": "GPU 잡는 NPU 한국에 있다…AI반도체 2세대 승부사들&nbsp;&nbsp;중앙일보",
-        "keywords": [],
-        "ai_insight": ""
+        "title": "Pinterest said he violated laid-off colleagues&#8217; privacy. Now he&#8217;s going public",
+        "source": "The Verge",
+        "link": "https://www.theverge.com/policy/906122/pinterest-employee-fired-obstructionist-speaks-out",
+        "published": "2026-04-03",
+        "summary": "It was late January, and Pinterest engineer Teddy Martin was on edge about recent layoffs at the company. Martin had just survived a round of cuts, but he and other employees were confused about who was being let go and why, and explanation",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "AI/컴퓨팅 뉴스는 제품 로드맵과 인프라 비용에 직접 영향을 주므로, 모델/칩/클라우드 변화에 맞춰 기술 선택을 유연하게 가져가야 합니다."
       },
       {
-        "title": "[반도체·전자제조공정로봇 컨퍼런스”②] ‘AI와 로봇이 만드는 대한민국 제조의 전략적 방향’ - 로봇신문",
-        "source": "Google News - 인공지능",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VR3BGRDQwUjVWS1otTlJHeEVfZ0pfSDRiakw2QUdDdkMwVFgwaDFvWng4RnMxRXM0ZGpMSlVQMmdTMzQyUURjd3Z0UFNVbmt0UEhGdnBuY0tVeno4eFVDU0s0NmhTbHRWa1p4aw?oc=5",
-        "published": "2026-04-01",
-        "summary": "[반도체·전자제조공정로봇 컨퍼런스”②] ‘AI와 로봇이 만드는 대한민국 제조의 전략적 방향’&nbsp;&nbsp;로봇신문",
-        "keywords": [],
-        "ai_insight": ""
-      },
-      {
-        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-        "published": "2026-03-31",
-        "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-        "keywords": [],
-        "ai_insight": ""
+        "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+        "published": "2026-04-03",
+        "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "AI/컴퓨팅 뉴스는 제품 로드맵과 인프라 비용에 직접 영향을 주므로, 모델/칩/클라우드 변화에 맞춰 기술 선택을 유연하게 가져가야 합니다."
       },
       {
-        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "title": "Microsoft takes on AI rivals with three new foundational models",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-        "published": "2026-03-31",
-        "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-        "keywords": [],
-        "ai_insight": ""
+        "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "published": "2026-04-03",
+        "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "AI/컴퓨팅 뉴스는 제품 로드맵과 인프라 비용에 직접 영향을 주므로, 모델/칩/클라우드 변화에 맞춰 기술 선택을 유연하게 가져가야 합니다."
+      },
+      {
+        "title": "2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Before They Rebound From the Tech Sell-Off - The Motley Fool",
+        "source": "Google News - AI",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEotSEJ6VHVmNS1kVmI1ZzhOYVpGOENaYUdTX1Y5bVZwbGxNclJtZHBuOUZ6SzRVclhXYVJTemxNOFNiOTRWY1dMRmZQSkplbWV6b29sTDE0M1BfRm9OR1pBZG9rTU5tN1dOdVpYMnZuRVRjREFCdzBQamZaZ3pucm9OekpUVHNSYmpWX2NrcU4zMjZzc0hxVA?oc=5",
+        "published": "2026-04-03",
+        "summary": "2 Artificial Intelligence (AI) Stocks I'd Buy With $1,000 Before They Rebound From the Tech Sell-Off&nbsp;&nbsp;The Motley Fool",
+        "keywords": [
+          "AI"
+        ],
+        "ai_insight": "AI/컴퓨팅 뉴스는 제품 로드맵과 인프라 비용에 직접 영향을 주므로, 모델/칩/클라우드 변화에 맞춰 기술 선택을 유연하게 가져가야 합니다."
       }
     ],
     "Global Biz": [
       {
-        "title": "Schreiber Foods, Inc. Issues Allergy Alert on Undeclared Tree Nuts (Almonds) in Product",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/schreiber-foods-inc-issues-allergy-alert-undeclared-tree-nuts-almonds-product",
-        "published": "2026-03-27",
-        "summary": "'이상한 변호사 우영우' 작가가 넷플릭스 방영에 대한 추가 사용료를 요구하며 제기한 소송이 항소심에서도 기각되었다. 저작권자와 플랫폼 간의 수익 배분 분쟁이 법적으로 결판났다.",
+        "title": "How Trump Rewrote the Rules of Global Trade in One Year - wsj.com",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxOUUhZal9FQkJfR2ZCNkdIX1BwWHRBblpSdG9nTVFtMXF1bF9YZUpMVUlwWVYxNHl2aWV4cW5sbjg2cUVrQ0JZM1hLdTlIdXpJMm9NM1Bib3pkdUwzaUw4dFVaYlRidVZlNzBLT3A4NVFkVE84WV8xNVl3UU1GYmRIUUd1cUJEd2E0TUdxR1kyLTV2M3JPVlo2QUh0dkQtSVBvcjJFODkzcDUyUkRsOHo1UHZTTXhiX1N4MjRrQTYzSjhQYzVMdm1KN09ZZ1JVVXBlZlBlZDBYUjZSbmxuSFFCOVR5Ylo3bzdMZ0hiUFFLeVB1RnBHWHBkdkRLLXQ2bFB3YURidGE1bTVQbU1JdXpXTE85UXFvLTFCN29ZT20yMDItQ0ZXcV9PTWZob0pSU3pWYW9mLXZidDJiS3BYallDSmhGZGFpR1ZKSWpxbXYzU3B0UTZablFPX2ZVNGZrUUdfYjFFRHFxclExWnM1eUd4bHNyZzR4TFFvUmhWWlZBR3NmQUpGRjdXVnR6Q2FfbTdjcVhUdHl5elhsRWpCaWVIbEQ0VEhoSm8?oc=5",
+        "published": "2026-04-03",
+        "summary": "How Trump Rewrote the Rules of Global Trade in One Year&nbsp;&nbsp;wsj.com",
         "keywords": [
-          "넷플릭스",
-          "드라마",
-          "저작권",
-          "수익배분"
+          "무역"
         ],
-        "ai_insight": "글로벌 스트리밍 플랫폼의 저작권료 책정 구조가 제작진의 기대치와 맞지 않는 점은 산업 내 지속적 갈등 요소로 작용할 수 있으며, 명확한 수익 배분 기준 마련이 필요하다."
+        "ai_insight": "무역·거시·스타트업 동향은 수요와 자본비용 변화를 반영하므로, 가격·재고·투자 우선순위를 시나리오로 관리하세요."
       },
       {
-        "title": "Blueroot Health Issues Voluntary Allergy Alert on Undeclared Egg, Hazelnut, and Soy in Vital Nutrients Aller-C Dietary Supplements",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blueroot-health-issues-voluntary-allergy-alert-undeclared-egg-hazelnut-and-soy-vital-nutrients-aller",
-        "published": "2026-03-27",
-        "summary": "6개 제분사 임원들이 밀가루 가격 담합 혐의로 재판에 넘겨져 내달 첫 공판이 예정되었다. 약 6조 원대의 담합 규모가 드러나 공정거래 위반의 심각성이 문제다.",
+        "title": "Houthi escalation puts global trade routes under pressure - CTech",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QYTEwVXZiVmJBY2ZEREJXR3RxcVE1WW5uNW9qLVlsN3U4elFzNk9PZkZnYmUxY0V1dGh0OWxrRXNuay1SVDEyZUtaa3d2bVZPeHFUVEtpUkZBV05fZDBVTi0wbENpNmM?oc=5",
+        "published": "2026-04-03",
+        "summary": "Houthi escalation puts global trade routes under pressure&nbsp;&nbsp;CTech",
         "keywords": [
-          "가격담합",
-          "제분사",
-          "독점규제",
-          "공정거래"
+          "무역"
         ],
-        "ai_insight": "대규모 생활필수품의 담합은 일반 소비자와 중소기업에 직접적 피해를 주므로, 식품업계의 정기적 감시 체계 강화와 자율준수 캠페인이 시급하다."
+        "ai_insight": "무역·거시·스타트업 동향은 수요와 자본비용 변화를 반영하므로, 가격·재고·투자 우선순위를 시나리오로 관리하세요."
       },
       {
-        "title": "Amneal Pharmaceuticals LLC Issues Voluntary Nationwide Recall of Magnesium Sulfate in Water for Injection, USP 4 g/100mL (NDC 70121-1720-3) Due to a Product Mix-up with Tranexamic Acid in 0.7% Sodium Chloride Injection, 10 mg/mL",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/amneal-pharmaceuticals-llc-issues-voluntary-nationwide-recall-magnesium-sulfate-water-injection-usp",
-        "published": "2026-03-24",
-        "summary": "3월 한달간 외화예금이 66억달러 감소하며 잔액이 10% 줄어들었다. 환율 고점 인식으로 달러 환차익을 실현하려는 개인 투자자들의 환전이 이어지고 있다.",
+        "title": "From World War Trade to domino regionalism: The emergent global trading order - CEPR",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0FPTlJZT0R1R0NiWlV3ME5rQU9QWkZISmNqaFdaOF84cjF3bFkwaWpHa1lRWFdnU1VWVlNTU1d4X3FhOFJVU2FUODNDSFZLU2E4UlNnenExYkpfb0ZzSDhGN1NUbUlnUzR1YVdBVFZRUkZqQ2poVXU3cTR4V2lUWGJIMWFaemxYdmhrVXYwNDJwdE4wakUzX1BqQQ?oc=5",
+        "published": "2026-04-02",
+        "summary": "From World War Trade to domino regionalism: The emergent global trading order&nbsp;&nbsp;CEPR",
         "keywords": [
-          "외화예금",
-          "환율",
-          "달러",
-          "환차익"
+          "무역"
         ],
-        "ai_insight": "중동 지정학적 불안정과 환율 변동성이 개인 자산배분 행동에 직결되므로, 금융기관의 환위험 관리 상담과 투자자 교육 강화가 필요하다."
+        "ai_insight": "무역·거시·스타트업 동향은 수요와 자본비용 변화를 반영하므로, 가격·재고·투자 우선순위를 시나리오로 관리하세요."
       },
       {
-        "title": "Falcon Trading Company, Inc. Issues a Recall on a the Following Organic Black Bean Items, that Contain Pesticide Residue",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/falcon-trading-company-inc-issues-recall-following-organic-black-bean-items-contain-pesticide",
-        "published": "2026-03-24",
-        "summary": "음주운전 사건의 공소시효가 경과한 후 경찰이 불송치 결정을 내린 데 대해 검찰이 시정 요구를 했다. 수사 지연의 책임 소재 규명을 촉구한 조치다.",
+        "title": "A year on: Four ways Trump's tariffs have changed the global economy - BBC",
+        "source": "Google News - Global Economy",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NcTJmTVo3ajMtLXFDTUw1bEVKbVd3UHh6MTdxb2NrQl9BNGxMN1NlRjUwXzdlT0ZWd3pKeE4wUlQ3dHRObGc0aVZZbzJMbXBnTWg2V0M1VHd4Zw?oc=5",
+        "published": "2026-04-02",
+        "summary": "A year on: Four ways Trump's tariffs have changed the global economy&nbsp;&nbsp;BBC",
         "keywords": [
-          "음주운전",
-          "공소시효",
-          "불송치",
-          "수사지연"
+          "관세",
+          "경제"
         ],
-        "ai_insight": "사건 처리 과정에서의 시간 지연은 사법부의 신뢰성을 저하시키므로, 경찰-검찰 간 수사 진행 상황 공유 시스템 개선과 책임 추적 체계 구축이 중요하다."
+        "ai_insight": "무역·거시·스타트업 동향은 수요와 자본비용 변화를 반영하므로, 가격·재고·투자 우선순위를 시나리오로 관리하세요."
       }
     ]
   }
