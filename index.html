@@ -899,7 +899,7 @@
       if (lastFetchTime) {
         rightHtml += '<span>마지막 업데이트: ' + formatTime(lastFetchTime) + '</span>';
       }
-      rightHtml += '<span>자동 갱신: 5분 간격</span>';
+      rightHtml += '<span>매일 오전 8시 업데이트</span>';
       right.innerHTML = rightHtml;
     }
 
@@ -936,7 +936,7 @@
 
     // ===== INIT =====
     fetchNews();
-    setInterval(fetchNews, 5 * 60 * 1000); // Auto-refresh every 5 min
+    // 하루 1회 업데이트 — 자동 새로고침 불필요
   </script>
 </body>
 </html>
