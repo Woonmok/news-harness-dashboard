@@ -1,292 +1,368 @@
 {
-  "generated_at": "2026-04-08T08:04:03.660447+09:00",
+  "generated_at": "2026-04-08T23:07:52.529585+00:00",
   "total_count": 23,
   "briefing": {
     "highlights": [
-      "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시 - dailysecu.com — 영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시 - dailysecu",
-      "FDA withholds company names in report on mango outbreak — FDA withholds company names in report on mango outbreak 관련 최신 동향을 다룬 기사입니다",
-      "Nalpac Issues Voluntary Nationwide Recall of DTF Sexual Chocolate Due to the Presence of the Pharmaceutical Ingredient’s Sildenafil and Tadalafil — Nalpac Issues Voluntary Nationwide Recall of DTF Sexual Chocolate Due to the Presence of the Pharmaceutical Ingredient’s Sildenafil and Tadalafil 관련 최신 동향을 다룬 기사입니다",
-      "Karns Foods Issues Voluntary Recall of Mini Dark Chocolate Raspberry Cups Due to Undeclared Peanuts — Karns Foods Issues Voluntary Recall of Mini Dark Chocolate Raspberry Cups Due to Undeclared Peanuts 관련 최신 동향을 다룬 기사입니다",
-      "Aphreseller (Buy-herbal.com) Issues Voluntary Nationwide Recall of Kian Pee Wan Capsules Due the Presence of Undeclared Dexamethasone and Cyproheptadine — Aphreseller (Buy-herbal"
+      "(untitled) — AI News & Artificial Intelligence | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 ",
+      "XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, — - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8,",
+      "] — Major Product Recalls | FDA Skip to main content Skip to FDA Search Skip to in this sectio",
+      "HK shopper claims 'synthetic pig' at Zhuhai roast meat shop, netizens hit back: 'It's a whole pig' - The Standard (HK) — Google News",
+      "(untitled) — Home Page | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudsp"
     ],
-    "campaign_advice": "오늘 이슈는 '안전/신뢰(리콜·규제)'와 '기술 전환(AI·신규식품)'이 동시 부각됩니다. 캠페인 메시지는 불안 자극보다 해결책(검사 강화·공급망 투명성·지역 일자리)을 전면에 두고, 지역/산업별 맞춤 공약으로 세분화하세요.",
-    "farm_advice": "식품 안전 뉴스가 늘면 유통·가공 단계의 기록관리와 냉장/위생 관리가 더 중요해집니다. 농장/스마트팜은 출하 로트 추적(라벨·QR), 작업자 위생 체크리스트, 온도 로그 자동화를 우선순위로 두면 리스크를 줄일 수 있습니다."
+    "campaign_advice": "이슈가 커지는 분야(식품안전·AI·글로벌 경기)를 정리해 핵심 메시지 2~3개로 단순화하고, 지역/산업 이해관계자에게 맞춘 Q&A를 미리 준비하세요. 특히 리콜·규제 이슈는 사실 확인과 대응 속도가 신뢰를 좌우하므로 모니터링 체계를 강화하는 것이 좋습니다.",
+    "farm_advice": "식품안전 리콜 흐름과 공급망 변화는 농가에도 직접 영향을 줍니다. 출하 전 위생·온도·이력 관리 데이터를 정비하고, 대체단백/푸드테크 동향을 참고해 거래처 요구(규격·검사)를 선제적으로 맞추는 전략이 유리합니다."
   },
   "categories": {
     "Listeria Free": [
       {
-        "title": "FDA withholds company names in report on mango outbreak",
+        "title": "]",
+        "source": "Perplexity",
+        "link": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
+        "published": "",
+        "summary": "핵심 내용: Major Product Recalls | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil.",
+        "keywords": [
+          "recalls",
+          "products",
+          "associated",
+          "due",
+          "potential"
+        ],
+        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
+      },
+      {
+        "title": "]",
+        "source": "Perplexity",
+        "link": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+        "published": "",
+        "summary": "핵심 내용: Recalls, Market Withdrawals, & Safety Alerts | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end",
+        "keywords": [
+          "recalls",
+          "safety",
+          "alerts",
+          "fda",
+          "market"
+        ],
+        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
+      },
+      {
+        "title": "Blaine Labs, Inc Issues Voluntary Nationwide Recall of Wound Care Gel Products Due to Microbial Contamination",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blaine-labs-inc-issues-voluntary-nationwide-recall-wound-care-gel-products-due-microbial",
+        "published": "Wed, 08 Apr 2026 17:40:00 EDT",
+        "summary": "핵심 내용: Blaine Labs, Inc Issues Voluntary Nationwide Recall of Wound Care Gel Products Due to Microbial Contamination | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know Th",
+        "keywords": [
+          "recalls",
+          "products",
+          "safety",
+          "recall",
+          "fda"
+        ],
+        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
+      },
+      {
+        "title": "EWG reveals its Dirty Dozen; AFF challenges validity of list",
         "source": "Food Safety News",
-        "link": "https://www.foodsafetynews.com/2026/04/fda-withholds-company-names-in-report-on-mango-outbreak/",
-        "published": "Tue, 07 Apr 2026 04:03:31 GMT",
-        "summary": "FDA withholds company names in report on mango outbreak 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): The FDA has issued a report about a Salmonella Saintpaul outbreak linked to mangoes but has redacted key information, including what companies were involved.",
+        "link": "https://www.foodsafetynews.com/2026/04/ewg-reveals-its-dirty-dozen-aff-challenges-validity-of-list/",
+        "published": "Wed, 08 Apr 2026 04:05:09 GMT",
+        "summary": "핵심 내용: EWG reveals its Dirty Dozen; AFF challenges validity of list | Food Safety News Skip to content Sign Up for Free FSN Weekly Newsletter Trusted by 45,000+ food safety leaders, regulators, and professionals. Personal information Subscribe Great!",
         "keywords": [
-          "dac",
-          "ai"
+          "dirty",
+          "dozen",
+          "food",
+          "group",
+          "ewg"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
-      },
-      {
-        "title": "Nalpac Issues Voluntary Nationwide Recall of DTF Sexual Chocolate Due to the Presence of the Pharmaceutical Ingredient’s Sildenafil and Tadalafil",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nalpac-issues-voluntary-nationwide-recall-dtf-sexual-chocolate-due-presence-pharmaceutical",
-        "published": "Mon, 06 Apr 2026 15:23:00 EDT",
-        "summary": "Nalpac Issues Voluntary Nationwide Recall of DTF Sexual Chocolate Due to the Presence of the Pharmaceutical Ingredient’s Sildenafil and Tadalafil 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): FOR IMMEDIATE RELEASE – Date – Ferndale, Michigan.",
-        "keywords": [
-          "recall",
-          "ai"
-        ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
-      },
-      {
-        "title": "Karns Foods Issues Voluntary Recall of Mini Dark Chocolate Raspberry Cups Due to Undeclared Peanuts",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/karns-foods-issues-voluntary-recall-mini-dark-chocolate-raspberry-cups-due-undeclared-peanuts",
-        "published": "Thu, 02 Apr 2026 16:52:00 EDT",
-        "summary": "Karns Foods Issues Voluntary Recall of Mini Dark Chocolate Raspberry Cups Due to Undeclared Peanuts 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Mechanicsburg, PA — April 2, 2026 Karns Foods is voluntarily recalling its approximate 8-ounce packages of \"Mini Dark Chocolate Raspberry Cups\" because they may contain undeclared peanuts.",
-        "keywords": [
-          "recall",
-          "ai"
-        ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
-      },
-      {
-        "title": "Aphreseller (Buy-herbal.com) Issues Voluntary Nationwide Recall of Kian Pee Wan Capsules Due the Presence of Undeclared Dexamethasone and Cyproheptadine",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/aphreseller-buy-herbalcom-issues-voluntary-nationwide-recall-kian-pee-wan-capsules-due-presence",
-        "published": "Mon, 30 Mar 2026 16:03:00 EDT",
-        "summary": "Aphreseller (Buy-herbal.com) Issues Voluntary Nationwide Recall of Kian Pee Wan Capsules Due the Presence of Undeclared Dexamethasone and Cyproheptadine 관련 최신 동향을 다룬 기사입니다.",
-        "keywords": [
-          "recall",
-          "ai"
-        ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
       }
     ],
     "Cultured Meat": [
+      {
+        "title": "HK shopper claims 'synthetic pig' at Zhuhai roast meat shop, netizens hit back: 'It's a whole pig' - The Standard (HK)",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMUlRbnN0ME54aFFzZGNyQkdsVWh5NUdMVmxSTFpkS2JBZ2oyNEd2RGlPM2Jmc0lPSXVrTlJMa3VZQW9JdTJwU2xxY2c1WjZUMW1jN3lTYjdsZHV2Q0xrQUYyaTVmVTl3UTNVanp0VS15MVRWTW5TQWp2RnBmNGc3Y05XekxsM3pPcDdKMVdSZmFqMWl0bi1qM2hGdXRMRktqdnhFZXVvLVNmU285WEdMcXNqbENCN1R2bUNCcmVKMlBwbUZWSHVONE5KeUZSX2NiNC1IdUo2Nm04U2Z5bU5uY3pSZw?oc=5",
+        "published": "Wed, 08 Apr 2026 16:24:25 GMT",
+        "summary": "핵심 내용: Google News",
+        "keywords": [
+          "pig'",
+          "shopper",
+          "claims",
+          "synthetic",
+          "zhuhai"
+        ],
+        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
+      },
+      {
+        "title": "실험실 배양육 매일 먹어도 괜찮을까? 건강 팩트체크 - 파퓰러사이언스",
+        "source": "Google News - 배양육",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQ2x5cklGb2tOdmtDWnRMUkg3ZWRpSS1INzVMU01kN2psMnFVbUlZWEkxQk1lbTZwYVlWb2NnSGxFWFBYSm9FVWJIZk03Z1pZNkZCYnVfdVJsRGlXZU1OVVBtX3BqSTdJdkHSAW5BVV95cUxOOG5UVVh0REFMWDc4RGx6VzlkNW1lUWZFUFlrcmJiOEk2NzcyV3M0TjFKTV9vdmtZOFM2LXFWenFyNzRWTThXTU00NDM5M0owdGJ0RGc4bUZwOC1xZkl6NUl3NXRudDlfY244Z0ZLUQ?oc=5",
+        "published": "Wed, 08 Apr 2026 00:11:30 GMT",
+        "summary": "핵심 내용: Google News",
+        "keywords": [
+          "google",
+          "news"
+        ],
+        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
+      },
       {
         "title": "Is ‘lab-grown’ meat actually safe? - Popular Science",
         "source": "Google News - Cultured Meat",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xZUl5dVlBMlhFaGtVYW9xdEFBVVlTUDNpOExKcnc2Xzgyck5TM3laa05rcl9rT1hXbkdxMFpFVzQySHhLMm9BaVFlMUN5cWF5RUNhV1I2TmZ3VHJYOGRYc1hISQ?oc=5",
         "published": "Tue, 07 Apr 2026 13:01:00 GMT",
-        "summary": "Is ‘lab-grown’ meat actually safe? - Popular Science 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Is ‘lab-grown’ meat actually safe? &nbsp;&nbsp; Popular Science.",
+        "summary": "핵심 내용: Google News",
         "keywords": [
-          "lab-grown"
+          "lab-grown",
+          "meat",
+          "actually",
+          "safe",
+          "popular"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
       },
       {
-        "title": "The Cultured Meat Industry is a Nascent Industry that is Scaling Fast - bioinformant.com",
+        "title": "Rational design of serum-free media for cultivated meat - Nature",
         "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BbGYtdTU4cEE2OGNwa2ttMmdtRUo0aG1BanlWcTNTMjZPQlFqUVdaQlRfUHRRTlpla2h1VDZWVmhGTG5Xc3lQTXRNYUhpYUVIOElfRDNmRXAwNWFs0gFiQVVfeXFMT0NrT1pQMHZsMzlNcmxVUG80RlJuOU8tQlN1SEdUempfT2pveU80ZTdkTlNTUDc3ZjluS1dIVkN1OE1ldDR5YzQwVnAyeVR5MjZMektZak1UYkdVbnVJUU1WWmc?oc=5",
-        "published": "Wed, 11 Feb 2026 08:00:00 GMT",
-        "summary": "The Cultured Meat Industry is a Nascent Industry that is Scaling Fast - bioinformant.com 관련 최신 동향을 다룬 기사입니다.",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqazlDYktOdWFNdmZCMmJ1cTJZLWFwU0RGSE1oVW5OQ2NoSm5Sd2dJazhsZ2hkUlZyd2FXRVFrem1qcUVNTlNCRWVqSVhwUS1faGR4aUJFNjBSZEFjUGdF?oc=5",
+        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+        "summary": "핵심 내용: Google News",
         "keywords": [
-          "cultured meat"
+          "rational",
+          "design",
+          "serum-free",
+          "media",
+          "cultivated"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
       },
       {
-        "title": "Cultivated meat’s casualties: who is failing and why? - FoodNavigator.com",
+        "title": "Cultivated Meat Could Land on UK Plates in 2027, Suggests Govt Food Regulator - Green Queen Media",
         "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYmV5X1FSbzZRRkJjY1VqZ0Y0UjFadzk3LUZkaUhDenJQWGdHREJ2aG9FMVVjMXBtUVVWWU5zTEZBQ21fMEJ2eWxOemhhOEgtZ05YdVpMRnpzWHVmYUg2QW53b0UxaUpGZk9xQ1dfZHVhZXNIQ2wwT2QyS2RiMlU3OWo5RmQ4YXRheFFBZDNQaHZrcFZWbng3MXlubVBvazd1?oc=5",
-        "published": "Thu, 22 Jan 2026 08:00:00 GMT",
-        "summary": "Cultivated meat’s casualties: who is failing and why? - FoodNavigator.com 관련 최신 동향을 다룬 기사입니다.",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZDF5MDhLMEd0SXBhdjc1M0pKd1dGeWVlTENHQXppRGpSWklKWWtCV2dveFJRNDBENGRiTHlMUWxrTW1DRjBaS2FGTVhSNTJ2bHFSX1JYdWREUEFwNkNJbnlEc1IwUTVaNlY1Rl9waGNuVTItaWpGYzlaeHhDa2NNelUxMFJTZks4ZWdvbHVTNGVGNGJZTm1MMTJPUnpsaWM?oc=5",
+        "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+        "summary": "핵심 내용: Google News",
         "keywords": [
-          "ai"
+          "cultivated",
+          "meat",
+          "could",
+          "land",
+          "plates"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
-      },
-      {
-        "title": "Only one restaurant in Texas sells lab-grown meat. Lawmakers banned it anyway. - The Texas Tribune",
-        "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESUFFMGNIa25tNGJ0MEpGYUMzcFdvVHBlOUZKR2FEYk9mbGVnS2ZnZjhuVzdiWkRvN190cklZRU0zMWJzUWJUNUw2bl9xcWNIS1dpTFp0aTdFai1TME1hcXU0MDc5V1BFLTZBUHZsQkZVRmwwOEI1ZUx0SXNtdlE?oc=5",
-        "published": "Mon, 25 Aug 2025 07:00:00 GMT",
-        "summary": "Only one restaurant in Texas sells lab-grown meat. Lawmakers banned it anyway.",
-        "keywords": [
-          "lab-grown"
-        ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
-      },
-      {
-        "title": "What Is Lab-Grown Meat and Is It Safe To Eat? - Health: Trusted and Empathetic Health and Wellness Information",
-        "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TN210WlEyRDZSbi1yTU5jRVB2ZmZjcmJuNDVHUnBTT2xJQldFNHRITk9NWUFGS0RKUVVEazV2X2dTb1RSLU9DZllHVUFpUGhidXVXZFNCbmk3TXpPYmc?oc=5",
-        "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-        "summary": "What Is Lab-Grown Meat and Is It Safe To Eat? - Health: Trusted and Empathetic Health and Wellness Information 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): What Is Lab-Grown Meat and Is It Safe To Eat? &nbsp;&nbsp; Health: Trusted and Empathetic Health and Wellness Information.",
-        "keywords": [
-          "lab-grown"
-        ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
       }
     ],
     "High-End Audio": [
       {
-        "title": "Spin Doctor #35: The Supatrac Nighthawk tonearm",
-        "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/spin-doctor-35-supatrac-nighthawk-tonearm",
-        "published": "Tue, 07 Apr 2026 13:04:47 +0000",
-        "summary": "Spin Doctor #35: The Supatrac Nighthawk tonearm 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Spin Doctor #35: The Supatrac Nighthawk tonearm John Atkinson Tue, 04/07/2026 - 06:04 Show Promo Image When people ask me what I do for a living, I reply that I'm a turntable setter upper.",
+        "title": "(untitled)",
+        "source": "Perplexity",
+        "link": "https://www.stereophile.com",
+        "published": "",
+        "summary": "핵심 내용: Home Page | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps Phono Preamps Digital Sources CD Hi-Rez Disc Digital P",
         "keywords": [
-          "audiophile",
-          "ai"
+          "montreal",
+          "audiofest",
+          "audio",
+          "room",
+          "robert"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
       },
       {
-        "title": "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시 - dailysecu.com",
-        "source": "Google News - 하이파이 오디오",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLZzVSM1RwaEtnNE94dVFyQ0dIZXBhNWgteUU1b2ZqeGNXRnA0NGdaVzBTbXh0dTk0ZndvYTA2c1R0SDZQQXNaTF9odkFJTG1FYWZhbmdRZGphV190RHNJVE1DMTJJOXJldGhTaw?oc=5",
-        "published": "Fri, 10 Dec 2021 08:00:00 GMT",
-        "summary": "영국 하이파이 오디오 브랜드 iFi audio, 최소형 HD 블루투스 DAC & AMP GO blu 출시 - dailysecu.com 관련 최신 동향을 다룬 기사입니다.",
+        "title": "CH Precision M10 monoblock power amplifier Measurements",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-measurements",
+        "published": "Wed, 08 Apr 2026 13:30:42 +0000",
+        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Measurements | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps Phono Pr",
         "keywords": [
-          "dac",
-          "ai"
+          "feedback",
+          "distortion",
+          "khz",
+          "power",
+          "trace"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
       },
       {
-        "title": "Home Page",
+        "title": "CH Precision M10 monoblock power amplifier Associated Equipment",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/home-page",
-        "published": "Thu, 17 Jun 2010 11:05:12 +0000",
-        "summary": "Home Page 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Home Page Stereophile covers everything high-end and audiophile audio.",
+        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-associated-equipment",
+        "published": "Wed, 08 Apr 2026 13:28:03 +0000",
+        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Associated Equipment | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps ",
         "keywords": [
-          "audiophile",
-          "amplifier"
+          "power",
+          "audio",
+          "music",
+          "nordost",
+          "equipment"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
       },
       {
-        "title": "Audiophile Experts Room at Montreal Audiofest 2026: Revox, Accuphase, Dali, Stable 33.33, Lumin",
+        "title": "CH Precision M10 monoblock power amplifier Specifications",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/audiophile-experts-room-montreal-audiofest-2026-revox-accuphase-dali-stable-3333-lumin",
-        "published": "Tue, 07 Apr 2026 17:44:34 +0000",
-        "summary": "Audiophile Experts Room at Montreal Audiofest 2026: Revox, Accuphase, Dali, Stable 33.33, Lumin 관련 최신 동향을 다룬 기사입니다.",
+        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-specifications",
+        "published": "Wed, 08 Apr 2026 13:26:32 +0000",
+        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Specifications | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps Phono ",
         "keywords": [
-          "audiophile",
-          "amplifier"
+          "ohms",
+          "power",
+          "into",
+          "dbw",
+          "precision"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
       },
       {
-        "title": "Ideon Axiom DAC Introduction",
+        "title": "CH Precision M10 monoblock power amplifier Lorraine Hunt Lieberson Live",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/ideon-axiom-dac-introduction",
-        "published": "Mon, 06 Apr 2026 20:03:51 +0000",
-        "summary": "Ideon Axiom DAC Introduction 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Ideon Axiom DAC Introduction Mike Mettler Mon, 04/06/2026 - 13:03 Show Promo Image On Thursday April 2nd at Park Avenue Audio in NYC, Ideon Audio introduced their latest and greatest creation, the Axiom DAC.",
+        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-lorraine-hunt-lieberson-live",
+        "published": "Wed, 08 Apr 2026 13:24:25 +0000",
+        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Lorraine Hunt Lieberson Live | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrat",
         "keywords": [
-          "dac"
+          "live",
+          "power",
+          "hunt",
+          "lorraine",
+          "music"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
       }
     ],
     "Computer & AI": [
       {
-        "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+        "title": "(untitled)",
+        "source": "Perplexity",
+        "link": "https://techcrunch.com/category/artificial-intelligence/",
+        "published": "",
+        "summary": "핵심 내용: AI News & Artificial Intelligence | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
+        "keywords": [
+          "ago",
+          "techcrunch",
+          "hours",
+          "day",
+          "disrupt"
+        ],
+        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
+      },
+      {
+        "title": "AI agent Poke makes setting up automations as easy as sending a text",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-        "published": "Tue, 07 Apr 2026 21:35:02 +0000",
-        "summary": "I can’t help rooting for tiny open source AI model maker Arcee 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Arcee is a tiny 26-person U.",
+        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+        "published": "Wed, 08 Apr 2026 21:05:13 +0000",
+        "summary": "핵심 내용: AI agent Poke makes setting up automations as easy as sending a text | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
         "keywords": [
-          "ai",
-          "startup"
+          "poke",
+          "your",
+          "agent",
+          "text",
+          "techcrunch"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
       },
       {
-        "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
+        "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-        "published": "Tue, 07 Apr 2026 13:00:00 +0000",
-        "summary": "The AI gold rush is pulling private wealth into riskier, earlier bets 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): On a recent episode of Equity, we talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors into active participants.",
+        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+        "published": "Wed, 08 Apr 2026 20:09:14 +0000",
+        "summary": "핵심 내용: AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
         "keywords": [
-          "ai",
-          "startup"
+          "aws",
+          "techcrunch",
+          "your",
+          "openai",
+          "disrupt"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
       },
       {
-        "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-        "published": "Tue, 07 Apr 2026 05:30:00 +0000",
-        "summary": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+        "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+        "published": "Wed, 08 Apr 2026 18:23:06 +0000",
+        "summary": "핵심 내용: Tubi is the first streamer to launch a native app within ChatGPT | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
         "keywords": [
-          "ai",
-          "startup"
+          "tubi",
+          "chatgpt",
+          "app",
+          "techcrunch",
+          "launch"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
       },
       {
-        "title": "The Artificial Intelligence (AI) Correction Is Separating the Winners From the Losers. Here's How to Tell the Difference. - The Motley Fool",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXQ5ZnhIMWQxeFE3RzMtSGJtUlN5bXA2c1RMRUFEbzJ4WXJaOWFsbjFNOHV1SVl1N1kxRTEyaDlMOEdJOFUxQUFLU0g3ellUVUlNTWRCYmtrY1haNTBLYTR6VTBDREFzSk1LTUVPX3FkMi1idFBMaW1nTkFLS2VmbGd3TUJsTFZSS1llVE55aG95SjBrMTJTTw?oc=5",
-        "published": "Tue, 07 Apr 2026 18:10:21 GMT",
-        "summary": "The Artificial Intelligence (AI) Correction Is Separating the Winners From the Losers. Here's How to Tell the Difference.",
+        "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+        "published": "Wed, 08 Apr 2026 16:01:09 +0000",
+        "summary": "핵심 내용: Astropad's Workbench reimagines remote desktop for AI agents, not IT support | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
         "keywords": [
-          "ai"
+          "astropad",
+          "desktop",
+          "remote",
+          "your",
+          "workbench"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
-      },
-      {
-        "title": "How to Evaluate Artificial Intelligence (AI) Based Employment Tools from Vendors | CHRO Association and SIOP Foundation - BRIAN HEGER",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdDlRa0ktRmpCdkZ1NUxrSFE1WHJMN0dJdUIyMkhTSVVYRVNZbmU0bTkxVF84Mm94Rkp6bDRVbjhqd2ZzQ3A2Xy1yRVhvZ0U5VTNoNEFEVkIzS2ZxZlNHYzFKUzlGTTUyLVdsaV9kWnV2T0tqallnaVQwRktxVWgxUWFCX1dyeEw2aWVtMnoyRFRUY002aFB5dmx5RFdiQ1dGVnpjOUtpS21uU0dOMmNjcXl6SlNtM0twdXEyaWRRdE0zTXpBNl9aTzBaWFd4RkhNcDRoSEJOc0lnSzA?oc=5",
-        "published": "Tue, 07 Apr 2026 18:00:00 GMT",
-        "summary": "How to Evaluate Artificial Intelligence (AI) Based Employment Tools from Vendors | CHRO Association and SIOP Foundation - BRIAN HEGER 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): How to Evaluate Artificial Intelligence (AI) Based Employment Tools from Vendors | CHRO Association and SIOP Foundation &nbsp;&nbsp; BRIAN HEGER.",
-        "keywords": [
-          "ai"
-        ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
       }
     ],
     "Global Biz": [
       {
-        "title": "The future of global trade won’t depend on the Strait of Hormuz - Financial Times",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lSEFiUERqTDdNUE1oSll1WVFHai1IWU1rbEg1dURxcGM5Z0NrcjFQOFRJS3l5UTZianJKT1pXTFBwTGNWN3JtSWltM3FlVWsteDRtb1I3ak5IVVNUNGpocUZfRklhaWNxZmhGSU9NTUk?oc=5",
-        "published": "Tue, 07 Apr 2026 04:01:04 GMT",
-        "summary": "The future of global trade won’t depend on the Strait of Hormuz - Financial Times 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): The future of global trade won’t depend on the Strait of Hormuz &nbsp;&nbsp; Financial Times.",
+        "title": "XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026,",
+        "source": "Perplexity",
+        "link": "https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo",
+        "published": "",
+        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
         "keywords": [
-          "ai",
-          "trade"
+          "business",
+          "insider",
+          "april",
+          "https",
+          "www"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
       },
       {
-        "title": "From Shaheds to Strait Control: Why Iran Can Still Influence Global Trade - Global Security Review",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUt2aGdPeWNhbFBncklnR2xGWkNIckdvaUJ3c3p0UHBmMUVzajlXUHhlWE1CdFhOVG9KTm1NcHEyQ1JCaWViMkdBMnh1MnctbGFsZ2pFUWlwVFFVVFJBMHExd3dIX00yVFl3cVpHY0hLaVc5enU3Q3V0OWlycE9BaUUzMUZQTDNvOHNueHd2V2xNdm5FWk1uOTZEOUhUcjh4dGNRRTVpWFluZw?oc=5",
-        "published": "Tue, 07 Apr 2026 12:09:01 GMT",
-        "summary": "From Shaheds to Strait Control: Why Iran Can Still Influence Global Trade - Global Security Review 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): From Shaheds to Strait Control: Why Iran Can Still Influence Global Trade &nbsp;&nbsp; Global Security Review.",
+        "title": "Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 2026,",
+        "source": "Perplexity",
+        "link": "https://www.businessinsider.com/oil-prices-plunge-stocks-surge-taco",
+        "published": "",
+        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
         "keywords": [
-          "ai",
-          "trade"
+          "business",
+          "insider",
+          "april",
+          "https",
+          "www"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
       },
       {
-        "title": "Thomson Reuters delivers validated global trade content for Oracle users - Thomson Reuters tax",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWFVqWUNOUUh2UFFoRUsxUGtpQkNSSWtMSjNVQnR4QUVpV1JoTWhxWWhUbUxPc05pSm5FUUlDME5NMjhpMTNBOHdkSWFLRkFnMXptRmlpMVpnRUlTbF9EY1FkMXdib05CZGQxbTVoZ1M1aXlmQUVVaTB5Sl9VajJqREdTalBiUzlodFdscGRMZHNSQ3RoOTktNmRtMmFQMDhhLWpibEtZbDBqb1o2anc?oc=5",
-        "published": "Tue, 07 Apr 2026 15:32:45 GMT",
-        "summary": "Thomson Reuters delivers validated global trade content for Oracle users - Thomson Reuters tax 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Thomson Reuters delivers validated global trade content for Oracle users &nbsp;&nbsp; Thomson Reuters tax.",
+        "title": "Meta unveils Muse Spark, the first test of Zuckerberg’s $14 billion AI gamble**, Business Insider, April 8, 2026,",
+        "source": "Perplexity",
+        "link": "https://www.businessinsider.com/meta-muse-spark-zuckerberg-ai-gamble",
+        "published": "",
+        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
         "keywords": [
-          "trade"
+          "business",
+          "insider",
+          "april",
+          "https",
+          "www"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
       },
       {
-        "title": "Global Trade Update (April 2026): Global trade growth continues, but fragility rises - UN Trade and Development (UNCTAD)",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkJta09NSHJ3dW52RkNaZXlCdmprU3hBdjU4ZlVNY0ozWGowZHFXcDMzX0JpczFJODR3UXNacmlBdzJpcjRvZ2RzcnVpeVFoQ2dDSldaR3dLWm1xS1NpNXBydTZuT082RUE0cjJaWEtxYVRqWVlFclN5V0x0T1RYSEU2dS1rZzVjQl9kN1J5ck5uYkc2SnV4V0I3d19XdWpEVld2Y1FvZi1LdWc?oc=5",
-        "published": "Tue, 07 Apr 2026 12:11:37 GMT",
-        "summary": "Global Trade Update (April 2026): Global trade growth continues, but fragility rises - UN Trade and Development (UNCTAD) 관련 최신 동향을 다룬 기사입니다. 기사 요약(피드 발췌): Global Trade Update (April 2026): Global trade growth continues, but fragility rises &nbsp;&nbsp; UN Trade and Development (UNCTAD).",
+        "title": "'Tokenmaxxing' has techies buzzing. Not everyone agrees it's a good idea**, Business Insider, April 8, 2026,",
+        "source": "Perplexity",
+        "link": "https://www.businessinsider.com/tokenmaxxing-techies-buzzing",
+        "published": "",
+        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
         "keywords": [
-          "trade"
+          "business",
+          "insider",
+          "april",
+          "https",
+          "www"
         ],
-        "ai_insight": "핵심 메시지를 한 문장 슬로건으로 재구성해 이해관계자(소비자/투자자/규제기관)별로 다른 CTA를 준비하세요. 원문에서 숫자(리콜 규모·투자액·출시 일정 등)를 확인해 랜딩페이지/보도자료의 신뢰 요소로 활용하면 전환이 좋아집니다."
+        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
       }
     ]
   }
