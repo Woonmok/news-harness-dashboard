@@ -1,368 +1,233 @@
 {
-  "generated_at": "2026-04-08T23:07:52.529585+00:00",
+  "generated_at": "2026-04-10T08:08:00.000000+09:00",
   "total_count": 23,
   "briefing": {
     "highlights": [
-      "(untitled) — AI News & Artificial Intelligence | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 ",
-      "XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, — - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8,",
-      "] — Major Product Recalls | FDA Skip to main content Skip to FDA Search Skip to in this sectio",
-      "HK shopper claims 'synthetic pig' at Zhuhai roast meat shop, netizens hit back: 'It's a whole pig' - The Standard (HK) — Google News",
-      "(untitled) — Home Page | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudsp"
+      "ChatGPT, 월 $100 중간 요금제 출시 — OpenAI가 $20와 $200 사이의 공백을 메우는 $100 Pro 플랜을 도입, Codex 코딩 도구 사용량 5배 제공",
+      "Anthropic, 보안 취약점 탐지 특화 모델 'Mythos' 제한적 공개 — 사이버 인프라 보호 명목으로 AWS·JP모건 등 대형 기관에만 선공개",
+      "코스피, 미-이란 휴전 낙관론에 5,900선 재돌파 시도 — 이스라엘의 레바논 협상 의지 표명으로 반도체주 중심 반등 기대",
+      "배양육, 안전성·규제·확장성 논쟁 동시 진행 — 무혈청 배지 기술 발전과 소비자 인식 격차가 상용화의 양대 과제로 부상",
+      "농식품부, AI 기반 스마트농업 우수기업 15곳 첫 선정 — 정책사업 가점·스마트팜 융자 한도 최대 100억원 혜택 제공"
     ],
-    "campaign_advice": "이슈가 커지는 분야(식품안전·AI·글로벌 경기)를 정리해 핵심 메시지 2~3개로 단순화하고, 지역/산업 이해관계자에게 맞춘 Q&A를 미리 준비하세요. 특히 리콜·규제 이슈는 사실 확인과 대응 속도가 신뢰를 좌우하므로 모니터링 체계를 강화하는 것이 좋습니다.",
-    "farm_advice": "식품안전 리콜 흐름과 공급망 변화는 농가에도 직접 영향을 줍니다. 출하 전 위생·온도·이력 관리 데이터를 정비하고, 대체단백/푸드테크 동향을 참고해 거래처 요구(규격·검사)를 선제적으로 맞추는 전략이 유리합니다."
+    "campaign_advice": "이번 주 AI 시장의 핵심 흐름은 가격 세분화(ChatGPT $100 플랜)와 안전·규제 강화(Anthropic Mythos 제한 공개, OpenAI 플로리다 조사)입니다. AI 도구를 마케팅·캠페인에 활용하는 사업자라면 사용 기록 투명성과 데이터 보안 체계를 선제적으로 강화해 고객 신뢰를 구축하는 것이 경쟁 우위가 됩니다. Meta AI의 앱스토어 급상승(57위→5위)에서 보듯 새 모델 출시 시점에 콘텐츠·광고 집행을 집중하면 유기적 도달률을 크게 높일 수 있습니다.",
+    "farm_advice": "농식품부의 스마트농업 우수기업 15곳 선정은 AI·데이터 기반 영농 솔루션 도입 농가에 실질적인 정책 혜택(가점·100억 융자 한도 확대)을 제공하므로, 스마트팜 전환을 검토 중이라면 올해 지원 사업 공고를 적극 확인해야 합니다. 또한 FDA 리콜 동향(미생물 오염, 알레르겐 미표기)에서 보듯 식품 안전 관리의 허점은 브랜드 신뢰를 단번에 훼손할 수 있으므로, 원료 입고부터 포장·표기까지 HACCP 기반 이중 검증 체계를 유지하는 것이 필수입니다."
   },
   "categories": {
     "Listeria Free": [
       {
-        "title": "]",
-        "source": "Perplexity",
-        "link": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/major-product-recalls",
-        "published": "",
-        "summary": "핵심 내용: Major Product Recalls | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end in .gov or .mil.",
-        "keywords": [
-          "recalls",
-          "products",
-          "associated",
-          "due",
-          "potential"
-        ],
-        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
-      },
-      {
-        "title": "]",
-        "source": "Perplexity",
-        "link": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
-        "published": "",
-        "summary": "핵심 내용: Recalls, Market Withdrawals, & Safety Alerts | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know The .gov means it’s official. Federal government websites often end",
-        "keywords": [
-          "recalls",
-          "safety",
-          "alerts",
-          "fda",
-          "market"
-        ],
-        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
-      },
-      {
         "title": "Blaine Labs, Inc Issues Voluntary Nationwide Recall of Wound Care Gel Products Due to Microbial Contamination",
         "source": "FDA Recalls",
         "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blaine-labs-inc-issues-voluntary-nationwide-recall-wound-care-gel-products-due-microbial",
-        "published": "Wed, 08 Apr 2026 17:40:00 EDT",
-        "summary": "핵심 내용: Blaine Labs, Inc Issues Voluntary Nationwide Recall of Wound Care Gel Products Due to Microbial Contamination | FDA Skip to main content Skip to FDA Search Skip to in this section menu Skip to footer links An official website of the United States government Here’s how you know Th",
-        "keywords": [
-          "recalls",
-          "products",
-          "safety",
-          "recall",
-          "fda"
-        ],
-        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
+        "published": "2026-04-08",
+        "summary": "캘리포니아 소재 Blaine Labs가 미생물 오염을 이유로 상처 치료 젤 3개 로트 번호 제품을 자발적으로 전국 리콜했습니다. 해당 제품은 벤잘코늄 클로라이드 0.1% 함유 1oz 및 3oz 규격이며 소비자 수준까지 회수 조치가 이루어집니다. FDA는 관련 공지를 공공 서비스 차원에서 게시했습니다.",
+        "keywords": ["미생물 오염", "상처치료젤", "FDA 리콜", "Blaine Labs", "자발적 리콜"],
+        "ai_insight": "상처 치료 관련 제품을 취급하는 사업자는 공급망 내 미생물 오염 모니터링 주기를 단축하고, 리콜 발생 즉시 대체 제품 확보 루트를 사전 계약해 두면 공급 공백으로 인한 매출 손실을 최소화할 수 있습니다."
       },
       {
-        "title": "EWG reveals its Dirty Dozen; AFF challenges validity of list",
-        "source": "Food Safety News",
-        "link": "https://www.foodsafetynews.com/2026/04/ewg-reveals-its-dirty-dozen-aff-challenges-validity-of-list/",
-        "published": "Wed, 08 Apr 2026 04:05:09 GMT",
-        "summary": "핵심 내용: EWG reveals its Dirty Dozen; AFF challenges validity of list | Food Safety News Skip to content Sign Up for Free FSN Weekly Newsletter Trusted by 45,000+ food safety leaders, regulators, and professionals. Personal information Subscribe Great!",
-        "keywords": [
-          "dirty",
-          "dozen",
-          "food",
-          "group",
-          "ewg"
-        ],
-        "ai_insight": "리콜/위생 이슈는 브랜드 신뢰와 직결됩니다. 리콜 공지 모니터링과 공급망(원료·가공·유통) 단계별 검수 로그를 강화해 리스크를 선제적으로 줄이세요."
+        "title": "Nalpac Issues Voluntary Nationwide Recall of DTF Sexual Chocolate Due to the Presence of the Pharmaceutical Ingredient's Sildenafil and Tadalafil",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nalpac-issues-voluntary-nationwide-recall-dtf-sexual-chocolate-due-presence-pharmaceutical",
+        "published": "2026-04-06",
+        "summary": "미시간주 Nalpac이 DTF Sexual Chocolate 제품에서 처방 의약품 성분인 실데나필과 타달라필이 검출되어 전국 자발적 리콜을 실시합니다. 해당 성분은 무허가 식품에 포함될 경우 심혈관계 부작용을 유발할 수 있는 규제 성분입니다. 소비자는 즉시 사용을 중단하고 구매처에 반품해야 합니다.",
+        "keywords": ["실데나필", "타달라필", "무허가 의약성분", "FDA 리콜", "식품 안전"],
+        "ai_insight": "건강기능식품·기능성 식품 제조·유통 업체는 원료 공급업체로부터 성분 검사 COA(시험성적서)를 반드시 수취하고, 제3자 기관 검증을 추가하면 규제 당국 적발에 따른 리콜 리스크를 사전 차단할 수 있습니다."
+      },
+      {
+        "title": "Wawa Issues Product Recall on 16-oz. Wawa Brand Iced Tea Lemon, Iced Tea Diet Lemon, Diet Lemonade and Fruit Punch Due to Possible Undeclared Milk Allergen",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wawa-issues-product-recall-16-oz-wawa-brand-iced-tea-lemon-iced-tea-diet-lemon-diet-lemonade-and",
+        "published": "2026-04-03",
+        "summary": "펜실베이니아 소재 Wawa가 16oz 아이스티·다이어트 레모네이드·과일 펀치 4종에서 우유 알레르겐 미표기 가능성이 확인되어 일부 주 매장 대상 리콜을 발표했습니다. 우유 알레르기 보유자는 심각한 알레르기 반응 위험이 있으며, 해당 제품 구매자는 즉시 폐기하거나 반품해야 합니다. 리콜 대상 지역은 펜실베이니아, 델라웨어, 메릴랜드, 뉴저지, 버지니아입니다.",
+        "keywords": ["알레르겐 미표기", "우유 알레르기", "아이스티 리콜", "Wawa", "식품 라벨링"],
+        "ai_insight": "음료 제조업체는 생산 라인 공유로 인한 교차 오염 위험을 주기적으로 감사하고, 라벨 인쇄 프로세스에서 알레르겐 체크리스트를 의무화하면 규제 위반 리콜 비용과 브랜드 신뢰도 손상을 동시에 예방할 수 있습니다."
+      },
+      {
+        "title": "Karns Foods Issues Voluntary Recall of Mini Dark Chocolate Raspberry Cups Due to Undeclared Peanuts",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/karns-foods-issues-voluntary-recall-mini-dark-chocolate-raspberry-cups-due-undeclared-peanuts",
+        "published": "2026-04-02",
+        "summary": "펜실베이니아 Karns Foods가 미니 다크 초콜릿 라즈베리 컵 약 8온스 제품에 땅콩이 미표기된 것을 발견하고 자발적 리콜을 실시합니다. 땅콩 알레르기 보유자는 섭취 시 생명을 위협하는 알레르기 반응이 발생할 수 있습니다. 제품 구매자는 즉시 섭취를 중단하고 반품 또는 폐기해야 합니다.",
+        "keywords": ["땅콩 미표기", "초콜릿 리콜", "알레르겐", "Karns Foods", "FDA"],
+        "ai_insight": "제과·초콜릿 제품 생산 시 견과류 포함 원료를 별도 라인에서 처리하거나, 공급업체 변경 시마다 알레르겐 프로파일을 재검토하는 SOP를 운영하면 미표기 리콜 사태를 예방하고 소비자 신뢰를 유지할 수 있습니다."
       }
     ],
     "Cultured Meat": [
       {
-        "title": "HK shopper claims 'synthetic pig' at Zhuhai roast meat shop, netizens hit back: 'It's a whole pig' - The Standard (HK)",
-        "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMUlRbnN0ME54aFFzZGNyQkdsVWh5NUdMVmxSTFpkS2JBZ2oyNEd2RGlPM2Jmc0lPSXVrTlJMa3VZQW9JdTJwU2xxY2c1WjZUMW1jN3lTYjdsZHV2Q0xrQUYyaTVmVTl3UTNVanp0VS15MVRWTW5TQWp2RnBmNGc3Y05XekxsM3pPcDdKMVdSZmFqMWl0bi1qM2hGdXRMRktqdnhFZXVvLVNmU285WEdMcXNqbENCN1R2bUNCcmVKMlBwbUZWSHVONE5KeUZSX2NiNC1IdUo2Nm04U2Z5bU5uY3pSZw?oc=5",
-        "published": "Wed, 08 Apr 2026 16:24:25 GMT",
-        "summary": "핵심 내용: Google News",
-        "keywords": [
-          "pig'",
-          "shopper",
-          "claims",
-          "synthetic",
-          "zhuhai"
-        ],
-        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
-      },
-      {
-        "title": "실험실 배양육 매일 먹어도 괜찮을까? 건강 팩트체크 - 파퓰러사이언스",
-        "source": "Google News - 배양육",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFQ2x5cklGb2tOdmtDWnRMUkg3ZWRpSS1INzVMU01kN2psMnFVbUlZWEkxQk1lbTZwYVlWb2NnSGxFWFBYSm9FVWJIZk03Z1pZNkZCYnVfdVJsRGlXZU1OVVBtX3BqSTdJdkHSAW5BVV95cUxOOG5UVVh0REFMWDc4RGx6VzlkNW1lUWZFUFlrcmJiOEk2NzcyV3M0TjFKTV9vdmtZOFM2LXFWenFyNzRWTThXTU00NDM5M0owdGJ0RGc4bUZwOC1xZkl6NUl3NXRudDlfY244Z0ZLUQ?oc=5",
-        "published": "Wed, 08 Apr 2026 00:11:30 GMT",
-        "summary": "핵심 내용: Google News",
-        "keywords": [
-          "google",
-          "news"
-        ],
-        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
-      },
-      {
-        "title": "Is ‘lab-grown’ meat actually safe? - Popular Science",
+        "title": "Is 'lab-grown' meat actually safe? - Popular Science",
         "source": "Google News - Cultured Meat",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xZUl5dVlBMlhFaGtVYW9xdEFBVVlTUDNpOExKcnc2Xzgyck5TM3laa05rcl9rT1hXbkdxMFpFVzQySHhLMm9BaVFlMUN5cWF5RUNhV1I2TmZ3VHJYOGRYc1hISQ?oc=5",
-        "published": "Tue, 07 Apr 2026 13:01:00 GMT",
-        "summary": "핵심 내용: Google News",
-        "keywords": [
-          "lab-grown",
-          "meat",
-          "actually",
-          "safe",
-          "popular"
-        ],
-        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
+        "published": "2026-04-07",
+        "summary": "Popular Science가 배양육('실험실 재배 고기')의 안전성 문제를 심층 검토했습니다. 세포 배양 과정에서 사용되는 성장인자와 배지 성분, 장기 섭취 시 인체 영향에 대한 과학적 근거가 아직 충분히 축적되지 않은 상태입니다. 소비자 수용성과 규제 승인을 동시에 확보해야 하는 배양육 산업의 핵심 과제가 부각됩니다.",
+        "keywords": ["배양육 안전성", "실험실 고기", "식품 규제", "세포 배양", "소비자 인식"],
+        "ai_insight": "배양육 관련 사업을 준비 중인 기업은 독립적인 제3자 안전성 연구 결과를 선제적으로 공개함으로써 소비자 불안감을 해소하고 규제 기관과의 신뢰 관계를 구축하는 것이 시장 진입 속도를 높이는 핵심 전략입니다."
       },
       {
         "title": "Rational design of serum-free media for cultivated meat - Nature",
         "source": "Google News - Cultured Meat",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqazlDYktOdWFNdmZCMmJ1cTJZLWFwU0RGSE1oVW5OQ2NoSm5Sd2dJazhsZ2hkUlZyd2FXRVFrem1qcUVNTlNCRWVqSVhwUS1faGR4aUJFNjBSZEFjUGdF?oc=5",
-        "published": "Mon, 16 Mar 2026 07:00:00 GMT",
-        "summary": "핵심 내용: Google News",
-        "keywords": [
-          "rational",
-          "design",
-          "serum-free",
-          "media",
-          "cultivated"
-        ],
-        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
+        "published": "2026-03-16",
+        "summary": "Nature에 게재된 연구에서 배양육 생산의 핵심 난제인 무혈청 배지의 합리적 설계 방법론이 제시되었습니다. 동물 혈청 없이도 근육세포 증식과 분화를 효율적으로 유도하는 배지 조성을 체계적으로 도출하는 접근법으로, 생산 비용 절감과 윤리적 문제 해소에 기여합니다. 이 연구는 배양육 상용화의 가장 큰 기술적 장벽 중 하나를 낮추는 데 의미 있는 진전입니다.",
+        "keywords": ["무혈청 배지", "배양육 기술", "세포 배양", "Nature 논문", "생산 비용"],
+        "ai_insight": "무혈청 배지 기술의 학술적 진전은 배양육 스타트업의 생산 원가 구조를 근본적으로 바꿀 수 있으므로, 관련 IP 동향을 주시하며 기술 라이선싱 또는 공동연구 기회를 조기에 탐색하는 것이 유리합니다."
       },
       {
-        "title": "Cultivated Meat Could Land on UK Plates in 2027, Suggests Govt Food Regulator - Green Queen Media",
+        "title": "Lab grown meat (still) getting mixed reactions - Beef Magazine",
         "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZDF5MDhLMEd0SXBhdjc1M0pKd1dGeWVlTENHQXppRGpSWklKWWtCV2dveFJRNDBENGRiTHlMUWxrTW1DRjBaS2FGTVhSNTJ2bHFSX1JYdWREUEFwNkNJbnlEc1IwUTVaNlY1Rl9waGNuVTItaWpGYzlaeHhDa2NNelUxMFJTZks4ZWdvbHVTNGVGNGJZTm1MMTJPUnpsaWM?oc=5",
-        "published": "Fri, 13 Mar 2026 07:00:00 GMT",
-        "summary": "핵심 내용: Google News",
-        "keywords": [
-          "cultivated",
-          "meat",
-          "could",
-          "land",
-          "plates"
-        ],
-        "ai_insight": "규제·투자·기술 진전이 빠르게 바뀝니다. 허가 동향과 원가(배지·바이오리액터) 개선 포인트를 추적해 협업/파일럿 타이밍을 잡는 것이 유리합니다."
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTVTdHZMU0J6WElKTGJIREE1S1FicGhQTUpQRVVMSHlRWGl0VndTelQtMjh1QUhvYlIyMjRaSlhDYjFSZ09QUndudHVyY3lYczFYY0xyRi1FLXpOa1lVaWcySUtkbkUxUC1YRWVCN3dEeURpLWJQUWlOVXREYW1jVG4tTTljLTJLQmhyb2xB?oc=5",
+        "published": "2026-02-19",
+        "summary": "Beef Magazine이 배양육에 대한 소비자와 업계의 엇갈린 반응을 재조명했습니다. 기존 축산업계는 배양육이 전통 고기의 대체재로 자리잡을 가능성에 강한 우려를 표하고 있으며, 일부 소비자는 맛과 질감에 대한 의구심을 떨치지 못하고 있습니다. 반면 환경·동물복지에 관심 높은 소비자층은 지속적으로 긍정적 반응을 보이고 있습니다.",
+        "keywords": ["배양육 반응", "축산업", "소비자 인식", "대체 단백질", "시장 수용"],
+        "ai_insight": "배양육 제품 출시를 앞둔 기업은 환경·동물복지 가치를 전면에 내세우되, 맛·식감 체험 기회를 확대하는 팝업·시식 이벤트를 병행하면 인식 격차를 좁히고 초기 충성 고객층을 빠르게 확보할 수 있습니다."
+      },
+      {
+        "title": "The Cultured Meat Industry is a Nascent Industry that is Scaling Fast - BioInformant",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BbGYtdTU4cEE2OGNwa2ttMmdtRUo0aG1BanlWcTNTMjZPQlFqUVdaQlRfUHRRTlpla2h1VDZWVmhGTG5Xc3lQTXRNYUhpYUVIOElfRDNmRXAwNWFs0gFiQVVfeXFMT0NrT1pQMHZsMzlNcmxVUG80RlJuOU8tQlN1SEdUempfT2pveU80ZTdkTlNTUDc3ZjluS1dIVkN1OE1ldDR5YzQwVnAyeVR5MjZMektZak1UYkdVbnVJUU1WWmc?oc=5",
+        "published": "2026-02-11",
+        "summary": "BioInformant 분석에 따르면 배양육 산업은 초기 단계임에도 투자와 기술 발전 속도가 빠르게 가속되고 있습니다. 전 세계 수십 개 스타트업이 세포 배양 기술, 바이오리액터 확장, 비용 절감에 집중하며 빠른 성장세를 이어가고 있습니다. 향후 3~5년이 상용화 가능성을 가르는 결정적 시기가 될 것으로 전망됩니다.",
+        "keywords": ["배양육 스타트업", "산업 성장", "바이오리액터", "투자 트렌드", "상용화"],
+        "ai_insight": "빠르게 성장하는 배양육 산업에서 선점 효과를 노리는 투자자나 파트너사는 바이오리액터 장비·소모품 공급 및 콜드체인 물류 등 인접 인프라 분야로 진입하면 직접 경쟁 없이 성장의 과실을 공유할 수 있습니다."
+      },
+      {
+        "title": "Regulating Cultivated Meat - The Regulatory Review",
+        "source": "Google News - Cultured Meat",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTQXB3SzE2elUwRkl6RWw1SmhWZGQ2TTlHaENVNzkxVW1LOGZZc013ZDRhOXNWbkZTenJMOWZacHBnNng2Y1IxWHRLV2Jfd0RUNXdxUmw2MXpITlg4ZlFRQXlURFktSlhSRjBxQ0czTXRWeGhPekJqWlBsQXBaZw?oc=5",
+        "published": "2025-12-17",
+        "summary": "The Regulatory Review가 배양육에 대한 미국 및 글로벌 규제 프레임워크의 현황과 과제를 분석했습니다. FDA와 USDA의 이중 규제 구조 아래 배양육은 '식품'과 '의약품' 사이의 모호한 지위에 놓여 있으며, 각국이 서로 다른 규제 접근법을 채택하고 있습니다. 명확한 국제 표준 부재가 산업 확장의 주요 장벽으로 작용합니다.",
+        "keywords": ["배양육 규제", "FDA", "USDA", "식품 정책", "국제 표준"],
+        "ai_insight": "배양육 사업 진출을 검토하는 기업은 FDA/USDA 이중 규제 체계 속에서 규제 샌드박스나 파일럿 승인 프로그램을 적극 활용하고, 규제 당국과의 초기 비공식 협의(pre-submission meeting)를 통해 승인 경로를 선제적으로 설계해야 합니다."
       }
     ],
     "High-End Audio": [
       {
-        "title": "(untitled)",
-        "source": "Perplexity",
-        "link": "https://www.stereophile.com",
-        "published": "",
-        "summary": "핵심 내용: Home Page | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps Phono Preamps Digital Sources CD Hi-Rez Disc Digital P",
-        "keywords": [
-          "montreal",
-          "audiofest",
-          "audio",
-          "room",
-          "robert"
-        ],
-        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
+        "title": "EISA Hi-Fi Awards 2025-2026",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/eisa-hi-fi-awards-2025-2026",
+        "published": "2025-08-15",
+        "summary": "EISA(전문 영상·음향 협회)가 26개국 53개 전문 매체와 협력하여 2025-2026 최우수 오디오 제품 어워드를 발표했습니다. Hi-Fi, 홈시어터, 사진, 모바일 등 다양한 카테고리에서 편집자들의 광범위한 테스트와 투표를 거쳐 수상작이 선정되었습니다. 이 어워드는 하이엔드 오디오 시장에서 소비자와 전문가 모두가 참고하는 주요 신뢰 지표입니다.",
+        "keywords": ["EISA 어워드", "하이파이", "오디오 시상", "Stereophile", "2025-2026"],
+        "ai_insight": "EISA 수상 제품은 유통·판매 채널에서 즉각적인 프리미엄 마케팅 소재로 활용 가능하므로, 수상작 리스트를 기반으로 재고 전략과 프로모션 캘린더를 선제적으로 조정하면 시즌 판매 기회를 극대화할 수 있습니다."
       },
       {
-        "title": "CH Precision M10 monoblock power amplifier Measurements",
+        "title": "HiFi Rose RD160 D/A processor Measurements",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-measurements",
-        "published": "Wed, 08 Apr 2026 13:30:42 +0000",
-        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Measurements | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps Phono Pr",
-        "keywords": [
-          "feedback",
-          "distortion",
-          "khz",
-          "power",
-          "trace"
-        ],
-        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
+        "link": "http://www.stereophile.com/content/hifi-rose-rd160-da-processor-measurements",
+        "published": "2026-04-09",
+        "summary": "Stereophile이 한국 브랜드 HiFi Rose의 RD160 D/A 프로세서에 대한 측정 데이터를 공개했습니다. John Atkinson이 진행한 전기적 측정 결과는 제품의 객관적 성능 지표를 제공하며 리뷰의 과학적 기반을 형성합니다. 이 측정 결과는 RD160 전체 리뷰 시리즈의 일환으로 발행되었습니다.",
+        "keywords": ["HiFi Rose", "RD160", "DAC", "측정 데이터", "Stereophile"],
+        "ai_insight": "한국산 하이엔드 오디오 브랜드가 Stereophile 측정 리뷰에 등장하는 것은 글로벌 프리미엄 시장에서의 브랜드 인지도 상승을 의미하며, 국내 유통사는 이를 수출 마케팅 자료로 즉시 활용할 수 있습니다."
       },
       {
-        "title": "CH Precision M10 monoblock power amplifier Associated Equipment",
+        "title": "HiFi Rose RD160 D/A processor Associated Equipment",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-associated-equipment",
-        "published": "Wed, 08 Apr 2026 13:28:03 +0000",
-        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Associated Equipment | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps ",
-        "keywords": [
-          "power",
-          "audio",
-          "music",
-          "nordost",
-          "equipment"
-        ],
-        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
+        "link": "http://www.stereophile.com/content/hifi-rose-rd160-da-processor-associated-equipment",
+        "published": "2026-04-09",
+        "summary": "Stereophile 리뷰어가 HiFi Rose RD160 DAC 평가에 사용한 연관 장비 목록이 공개되었습니다. 리뷰 환경의 참고 기준을 제시하는 이 정보는 오디오파일들이 자신의 시스템과 비교 판단하는 데 활용됩니다. 이 콘텐츠는 RD160 리뷰 시리즈의 보조 자료로 제공됩니다.",
+        "keywords": ["HiFi Rose", "RD160", "리뷰 장비", "DAC 평가", "Stereophile"],
+        "ai_insight": "리뷰에 사용된 연관 장비 목록을 분석하면 하이엔드 오디오 시장에서 번들 판매 또는 시스템 패키지 구성에 참고할 수 있는 소비자 선호 조합을 파악할 수 있습니다."
       },
       {
-        "title": "CH Precision M10 monoblock power amplifier Specifications",
+        "title": "HiFi Rose RD160 D/A processor Specifications",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-specifications",
-        "published": "Wed, 08 Apr 2026 13:26:32 +0000",
-        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Specifications | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrated Amps Phono ",
-        "keywords": [
-          "ohms",
-          "power",
-          "into",
-          "dbw",
-          "precision"
-        ],
-        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
+        "link": "http://www.stereophile.com/content/hifi-rose-rd160-da-processor-specifications",
+        "published": "2026-04-09",
+        "summary": "HiFi Rose RD160 D/A 프로세서의 공식 사양이 Stereophile에 게재되었습니다. 델타-시그마 칩 기반 DAC 설계의 전기적 특성, 지원 포맷, 연결 규격 등 기술 제원이 포함됩니다. 이 사양 정보는 구매를 고려하는 오디오 애호가들의 주요 참고 자료가 됩니다.",
+        "keywords": ["HiFi Rose", "RD160", "사양", "델타-시그마", "DAC 스펙"],
+        "ai_insight": "제품 사양의 투명한 공개와 공신력 있는 미디어 게재는 하이엔드 오디오 시장에서 프리미엄 포지셔닝을 강화하는 핵심 수단이며, 경쟁 제품 대비 차별점을 기술 스펙 중심으로 명확히 커뮤니케이션해야 합니다."
       },
       {
-        "title": "CH Precision M10 monoblock power amplifier Lorraine Hunt Lieberson Live",
+        "title": "HiFi Rose RD160 D/A processor",
         "source": "Stereophile",
-        "link": "http://www.stereophile.com/content/ch-precision-m10-monoblock-power-amplifier-lorraine-hunt-lieberson-live",
-        "published": "Wed, 08 Apr 2026 13:24:25 +0000",
-        "summary": "핵심 내용: CH Precision M10 monoblock power amplifier Lorraine Hunt Lieberson Live | Stereophile.com Skip to main content SUBSCRIBE User Menu Log in Reviews Loudspeakers Floorstanding Stand/Bookshelf Subwoofers Amplification Tube Preamp Tube Power Amps Solid Preamp Solid Power Amps Integrat",
-        "keywords": [
-          "live",
-          "power",
-          "hunt",
-          "lorraine",
-          "music"
-        ],
-        "ai_insight": "프리미엄 오디오는 커뮤니티 평판이 구매를 좌우합니다. 신제품은 객관 지표(측정치)와 체험 콘텐츠를 동시에 제공해 신뢰를 쌓는 전략이 효과적입니다."
+        "link": "http://www.stereophile.com/content/hifi-rose-rd160-da-processor",
+        "published": "2026-04-09",
+        "summary": "Stereophile 리뷰어 Herb Reichert가 한국 브랜드 HiFi Rose의 RD160 DAC를 청음 평가했습니다. 델타-시그마 칩 DAC 방식에 개인적 회의를 갖고 있는 Reichert지만, 모든 오디오 기기는 실제 음질과 사용감으로 판단해야 한다는 원칙 아래 평가를 진행했습니다. HiFi Rose는 서울 송파구에 본사를 둔 한국 하이엔드 오디오 기업입니다.",
+        "keywords": ["HiFi Rose", "RD160", "청음 리뷰", "한국 오디오", "Stereophile"],
+        "ai_insight": "서울 본사 브랜드 HiFi Rose가 세계 최고 권위 오디오 매체에서 본격 리뷰를 받은 것은 K-오디오 브랜드 전반의 글로벌 신뢰도 상승을 보여주며, 국내 관련 유통 및 액세서리 사업자에게 협업 마케팅 기회를 제공합니다."
       }
     ],
     "Computer & AI": [
       {
-        "title": "(untitled)",
-        "source": "Perplexity",
-        "link": "https://techcrunch.com/category/artificial-intelligence/",
-        "published": "",
-        "summary": "핵심 내용: AI News & Artificial Intelligence | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
-        "keywords": [
-          "ago",
-          "techcrunch",
-          "hours",
-          "day",
-          "disrupt"
-        ],
-        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+        "published": "2026-04-09",
+        "summary": "OpenAI가 $20 Plus와 $200 Pro 사이의 공백을 메우는 월 $100 중간 요금제를 출시했습니다. 새 플랜은 Codex 코딩 도구를 Plus 대비 5배 더 사용할 수 있으며, Anthropic의 $100 Claude 플랜에 직접 대응하는 가격 전략입니다. 기존 $200 플랜은 유지되지만 현재 OpenAI 가격 페이지에서는 노출이 축소된 상태입니다.",
+        "keywords": ["ChatGPT", "OpenAI", "요금제", "$100", "Codex"],
+        "ai_insight": "AI 코딩 도구 수요가 높은 개발자·스타트업 팀은 $100 플랜이 Codex 사용량 기준 가성비 최적점인지 실제 사용 패턴과 비교 분석 후 구독 전략을 재조정하면 월 운영 비용을 절감할 수 있습니다."
       },
       {
-        "title": "AI agent Poke makes setting up automations as easy as sending a text",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-        "published": "Wed, 08 Apr 2026 21:05:13 +0000",
-        "summary": "핵심 내용: AI agent Poke makes setting up automations as easy as sending a text | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
-        "keywords": [
-          "poke",
-          "your",
-          "agent",
-          "text",
-          "techcrunch"
-        ],
-        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
+        "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "published": "2026-04-09",
+        "summary": "플로리다 주 법무장관이 2025년 플로리다 주립대 총기 난사 사건에서 ChatGPT가 공격 계획에 활용됐다는 주장을 근거로 OpenAI에 대한 공식 조사를 착수했습니다. 피해자 가족은 OpenAI를 상대로 소송을 준비 중이며, 법무장관은 소환장 발부를 예고했습니다. AI 기업의 법적 책임 범위에 관한 선례가 될 수 있는 사건입니다.",
+        "keywords": ["OpenAI", "ChatGPT", "법적 책임", "AI 규제", "플로리다 조사"],
+        "ai_insight": "AI 서비스를 고객 대면 채널에 도입하는 기업은 사용 약관 내 콘텐츠 안전 정책과 책임 한계를 명확히 문서화하고, 위험 사용 사례에 대한 모니터링·차단 체계를 구축해 잠재적 법적 분쟁을 예방해야 합니다."
       },
       {
-        "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+        "title": "After data breach, $10B-valued startup Mercor is having a month",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-        "published": "Wed, 08 Apr 2026 20:09:14 +0000",
-        "summary": "핵심 내용: AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
-        "keywords": [
-          "aws",
-          "techcrunch",
-          "your",
-          "openai",
-          "disrupt"
-        ],
-        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
+        "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+        "published": "2026-04-09",
+        "summary": "기업가치 100억 달러의 AI 데이터 훈련 스타트업 Mercor가 데이터 유출 사건 이후 소송과 대형 고객 이탈에 시달리고 있습니다. 해커 그룹이 4TB 분량의 후보 프로필, 개인정보, 소스코드, API 키를 탈취했다고 주장하며, 오픈소스 도구 LiteLLM 취약점이 침입 경로로 지목되었습니다. 이번 사건은 오픈소스 의존도가 높은 AI 스타트업의 공급망 보안 취약성을 부각시킵니다.",
+        "keywords": ["Mercor", "데이터 유출", "AI 보안", "LiteLLM", "사이버보안"],
+        "ai_insight": "오픈소스 라이브러리를 핵심 인프라로 활용하는 AI 기업은 의존성 패키지의 보안 감사 주기를 월 단위로 설정하고, 침해 발생 시 고객 통지 자동화 시스템을 미리 구축해 신뢰 손상을 최소화해야 합니다."
       },
       {
-        "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+        "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-        "published": "Wed, 08 Apr 2026 18:23:06 +0000",
-        "summary": "핵심 내용: Tubi is the first streamer to launch a native app within ChatGPT | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
-        "keywords": [
-          "tubi",
-          "chatgpt",
-          "app",
-          "techcrunch",
-          "launch"
-        ],
-        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
+        "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+        "published": "2026-04-09",
+        "summary": "Meta가 새 AI 모델 Muse Spark를 출시한 다음 날, Meta AI 앱이 미국 앱스토어 순위 57위에서 5위로 급상승했습니다. 출시 당일 iOS 다운로드가 전일 대비 87% 급증했으며, Scale AI 출신 Alexandr Wang이 이끄는 Meta 초지능 연구소의 첫 모델 공개입니다. 이는 AI 앱 시장에서 신모델 발표가 즉각적인 사용자 유입으로 이어지는 효과를 다시 한번 확인시켜 줍니다.",
+        "keywords": ["Meta AI", "Muse Spark", "앱스토어", "AI 모델 출시", "다운로드 급증"],
+        "ai_insight": "AI 기능을 탑재한 앱 사업자는 신모델 출시 시점에 맞춰 앱스토어 최적화(ASO)와 유료 UA(User Acquisition) 캠페인을 집중 집행하면 경쟁사 모델 출시에 따른 트래픽 역전 효과를 최소화하고 자사 기반을 강화할 수 있습니다."
       },
       {
-        "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
         "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-        "published": "Wed, 08 Apr 2026 16:01:09 +0000",
-        "summary": "핵심 내용: Astropad's Workbench reimagines remote desktop for AI agents, not IT support | TechCrunch –:–:–:– THIS WEEK ONLY: Save close to $500 on your Disrupt pass. Offer ends April 10, 11:59 p.m.",
-        "keywords": [
-          "astropad",
-          "desktop",
-          "remote",
-          "your",
-          "workbench"
-        ],
-        "ai_insight": "기술 발표는 곧 제품/규제/채용 전략에 영향을 줍니다. 핵심 모델·칩·플랫폼 변화를 기준으로 ‘도입 우선순위’와 ‘보안/저작권 리스크’ 체크리스트를 업데이트하세요."
+        "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+        "published": "2026-04-09",
+        "summary": "Anthropic이 보안 취약점 탐지 능력이 매우 뛰어난 신모델 'Mythos'를 일반에 공개하지 않고 AWS, JP모건 등 주요 인프라 기업에만 선공개하기로 결정했습니다. 사이버 안보 우려를 공식 이유로 내세웠지만, 과도한 역량 과장이나 경쟁 전략적 고려가 숨어 있다는 시각도 존재합니다. OpenAI도 유사한 제한 공개 전략을 검토 중인 것으로 알려졌습니다.",
+        "keywords": ["Anthropic", "Mythos", "AI 보안", "사이버보안", "제한 공개"],
+        "ai_insight": "AI 최전선 모델의 제한적 공개 전략은 대형 기업과의 파트너십 기회를 먼저 선점하는 것이 중요함을 시사하므로, 클라우드 공급자(AWS, Azure 등)와의 계약을 통해 얼리 액세스 프로그램에 진입하는 것이 AI 도입 속도를 좌우할 수 있습니다."
       }
     ],
     "Global Biz": [
       {
-        "title": "XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026,",
-        "source": "Perplexity",
-        "link": "https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo",
-        "published": "",
-        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
-        "keywords": [
-          "business",
-          "insider",
-          "april",
-          "https",
-          "www"
-        ],
-        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
+        "title": "[마켓뷰] 코스피, 미-이란 휴전 지속 안도감에 반등 가능성",
+        "source": "연합뉴스 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260410021900008",
+        "published": "2026-04-10",
+        "summary": "미국과 이란의 2주간 휴전 합의가 지속될 것이라는 기대감 속에 코스피가 이날 5,900선 재돌파를 시도할 전망입니다. 전날 외국인 순매도로 1.61% 하락 마감했던 코스피는 이스라엘이 레바논과 협상 의사를 밝히면서 야간 선물이 2.1% 반등했습니다. 반도체·기술주 중심의 매수세 유입이 예상됩니다.",
+        "keywords": ["코스피", "미-이란 휴전", "반도체주", "외국인 매도", "반등"],
+        "ai_insight": "중동 지정학 리스크가 국내 증시에 직접 영향을 미치는 현 국면에서, 수출 의존도가 높은 제조·무역 기업은 환헤지 계약 만기와 유가 연동 원가 구조를 즉시 점검하고 단기 변동성 완충 재원을 확보해야 합니다."
       },
       {
-        "title": "Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 2026,",
-        "source": "Perplexity",
-        "link": "https://www.businessinsider.com/oil-prices-plunge-stocks-surge-taco",
-        "published": "",
-        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
-        "keywords": [
-          "business",
-          "insider",
-          "april",
-          "https",
-          "www"
-        ],
-        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
+        "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
+        "source": "연합뉴스 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260410015900011",
+        "published": "2026-04-10",
+        "summary": "트럼프 대통령이 4월 11일 파키스탄에서 예정된 미-이란 종전 협상에 '매우 낙관적'이라고 밝혔으며, 이란 새 최고지도자는 호르무즈 해협 통제 수준 격상을 선언했습니다. 국내에서는 한국은행 금통위가 7연속 금리 동결(2.50%)을 결정할 전망이며, 새마을금고는 비회원 주택담보대출 신규 취급을 중단할 예정입니다. 또한 국회는 중동 전쟁 대응 추경예산안(30조원 규모)을 본회의에서 처리할 예정입니다.",
+        "keywords": ["미-이란 협상", "호르무즈", "금리 동결", "추경", "한국 금융"],
+        "ai_insight": "7연속 금리 동결 환경에서 고금리 고정 부채를 보유한 중소기업은 리파이낸싱 타이밍을 재검토하고, 금리 인하 전환 시점을 선제적으로 예측해 운전자금 조달 전략을 준비해 두면 금융비용 절감 효과를 극대화할 수 있습니다."
       },
       {
-        "title": "Meta unveils Muse Spark, the first test of Zuckerberg’s $14 billion AI gamble**, Business Insider, April 8, 2026,",
-        "source": "Perplexity",
-        "link": "https://www.businessinsider.com/meta-muse-spark-zuckerberg-ai-gamble",
-        "published": "",
-        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
-        "keywords": [
-          "business",
-          "insider",
-          "april",
-          "https",
-          "www"
-        ],
-        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
+        "title": "이란전쟁에 국내 주식 10개 중 7개 녹았다…하락률 1위는",
+        "source": "연합뉴스 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260409156000008",
+        "published": "2026-04-10",
+        "summary": "이란 전쟁 발발 이후 코스피·코스닥 전체 종목의 69%가 하락했으며, 30%에 달하는 831개 종목이 52주 신저가를 기록했습니다. 가장 큰 하락종목은 코아스(-58.7%)이며, 반면 광전자는 447% 폭등하며 광통신 섹터의 강세를 보였습니다. 이란 전쟁에 따른 국제유가 급등과 원/달러 환율 상승이 전반적인 약세장 원인으로 분석됩니다.",
+        "keywords": ["이란 전쟁", "코스피 하락", "52주 신저가", "광통신주", "환율"],
+        "ai_insight": "전쟁·지정학 충격 속에서 광전자(+447%) 등 광통신 관련주의 급등은 특정 섹터에 집중된 테마 투자의 위험성과 기회를 동시에 보여주므로, 사업 포트폴리오 다각화 시 지정학 리스크와 수혜 섹터를 매핑하는 시나리오 분석이 필요합니다."
       },
       {
-        "title": "'Tokenmaxxing' has techies buzzing. Not everyone agrees it's a good idea**, Business Insider, April 8, 2026,",
-        "source": "Perplexity",
-        "link": "https://www.businessinsider.com/tokenmaxxing-techies-buzzing",
-        "published": "",
-        "summary": "핵심 내용: - **XAI reorganizes its engineering team ahead of SpaceX IPO**, Business Insider, April 8, 2026, https://www.businessinsider.com/xai-reorganizes-engineering-team-spacex-ipo - **Oil prices plunged the most since 2020 and stocks surged on TACO time**, Business Insider, April 8, 202",
-        "keywords": [
-          "business",
-          "insider",
-          "april",
-          "https",
-          "www"
-        ],
-        "ai_insight": "거시·무역 변수는 가격과 수요를 흔듭니다. 주요 지표(금리·환율·공급망) 변화에 따른 시나리오별 대응(재고·가격·시장 다변화)을 미리 준비하세요."
+        "title": "농식품부, 스마트농업 우수기업 15곳 첫 선정",
+        "source": "연합뉴스 경제",
+        "link": "https://www.yna.co.kr/view/AKR20260409115300030",
+        "published": "2026-04-10",
+        "summary": "농림축산식품부가 AI·데이터 기반 스마트농업 기술력과 현장 적용 성과를 갖춘 우수기업 15곳(경종 10곳, 축산 5곳)을 처음으로 선정했습니다. 선정 기업은 정책사업 가점 혜택과 함께 농업법인의 경우 스마트팜 종합자금 융자 한도가 최대 100억원으로 확대됩니다. 61개사 신청 중 서류·현장 평가를 거쳐 선정되었으며, 매년 추가 발굴·육성 계획입니다.",
+        "keywords": ["스마트농업", "농식품부", "우수기업", "스마트팜", "AI 농업"],
+        "ai_insight": "스마트농업 우수기업 인증은 향후 공공조달 사업과 수출 지원 프로그램에서 경쟁 우위를 확보하는 레버리지가 되므로, 아직 신청하지 않은 농업 기술 기업이라면 내년 공고 전에 현장 적용 사례를 체계적으로 문서화해 두는 것이 유리합니다."
       }
     ]
   }
