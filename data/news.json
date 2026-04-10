@@ -1,233 +1,233 @@
 {
-  "generated_at": "2026-04-11T08:05:08+09:00",
+  "generated_at": "2026-04-11T08:10:00+09:00",
   "total_count": 23,
   "briefing": {
     "highlights": [
-      "플로리다 배양육 금지, 연방항소법원 지지 — 미국 내 배양육 상업화에 제동, 주별 규제 분열 가속",
-      "트럼프 10% 글로벌 관세, 미 무역법원 법적 타당성 심리 — 기업 수입비용 불확실성 지속",
-      "아마존 CEO 앤디 재시, AI 투자 강세 유지 선언 — AI 인프라 확장 국면에서 수혜 기업 주목 필요",
-      "Blaine Labs 상처 치료 젤 전국 자진 리콜 — 미생물 오염으로 소비자 안전 경보 발령",
-      "UNCTAD 2026년 4월 글로벌 무역 보고서 — 교역 성장 지속되나 취약성 증가 경고"
+      "Blueroot Health, 알레르기 미표기 건강보조식품 리콜 확대 — FDA 알레르겐 관리 강화 추세 지속",
+      "플로리다주 배양육 판매 금지, 연방항소법원서 합헌 판결 — 규제 불확실성 심화",
+      "Amazon CEO 앤디 재시, AI 투자 낙관론 강조 — 기업 AI 도입 가속화 신호",
+      "Nature지, 무혈청 배양액 합리적 설계 연구 발표 — 배양육 생산비용 혁신 가능성",
+      "Gen Z, AI에 대한 회의론과 불만 급증 — 기술 수용 세대 간 격차 확대"
     ],
-    "campaign_advice": "미국 내 배양육 및 식품 관련 규제 환경이 주별로 빠르게 분열되고 있으므로, 제품 출시 전 타깃 시장의 법적 허용 여부를 반드시 확인하고 규제 리스크를 캠페인 기획에 반영해야 합니다. AI 기술에 대한 기업 및 소비자 관심이 급상승하는 시점을 활용해, AI 기반 혁신성을 강조하는 마케팅 메시지가 투자자·소비자 양쪽에서 높은 반응을 얻을 수 있습니다. 관세 불확실성으로 공급망 비용이 요동치는 환경에서는 국내 소싱 및 안정적 파트너십을 강조하는 메시지가 B2B 캠페인의 차별점이 될 수 있습니다.",
-    "farm_advice": "FDA 자진 리콜 사례(Blaine Labs, Wawa, Karns Foods 등)에서 보듯 미생물 오염과 알레르겐 미표기는 여전히 식품안전의 최대 리스크입니다. 농산물·가공식품 생산자는 HACCP 및 알레르겐 교차 오염 관리 절차를 정기적으로 점검하고 공급업체 검증을 강화해야 합니다. 배양육 기술이 빠르게 확장되는 가운데 규제 불확실성이 커지고 있으므로, 전통 농업 기반 식품 사업자는 '자연 재배', '투명한 원산지' 등의 차별화 요소를 적극적으로 소비자에게 알리는 전략이 유리합니다."
+    "campaign_advice": "AI 기술의 세대별 인식 차이가 뚜렷해지고 있어, 식품안전과 첨단기술 분야의 소비자 신뢰 확보가 핵심 과제입니다. 특히 FDA 리콜 사례가 잇따르면서 품질 인증과 추적 가능성(traceability)이 경쟁력 있는 사업 전략의 중심이 되고 있습니다. 글로벌 무역 환경의 불확실성(관세 분쟁) 속에서 내수 시장 강화와 지역 기반 사업 모델이 안정적인 성장 전략이 될 수 있습니다.",
+    "farm_advice": "FDA의 잇따른 리콜 조치는 식품 생산 전 과정에서의 HACCP 기반 품질관리 시스템 고도화 필요성을 재확인시킵니다. 배양육 분야는 규제 장벽이 높아지고 있으나, Nature지 연구처럼 무혈청 배양액 기술이 발전하면서 장기적 생산비용 절감 가능성이 열리고 있습니다. AI를 활용한 농장 관리(센서 데이터 분석, 생육 모니터링)가 실질적 생산성 향상 도구로 자리잡고 있어 적극적 도입을 검토할 시점입니다."
   },
   "categories": {
     "Listeria Free": [
       {
+        "title": "Blueroot Health Expands Voluntary Allergy Alert on Undeclared Egg, Hazelnut, and Soy in Vital Nutrients Aller-C Dietary Supplements",
+        "source": "FDA Recalls",
+        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blueroot-health-expands-voluntary-allergy-alert-undeclared-egg-hazelnut-and-soy-vital-nutrients",
+        "published": "2026-04-10",
+        "summary": "Blueroot Health가 코네티컷주 미들타운에서 생산한 Vital Nutrients Aller-C 건강보조식품에 미표기 계란, 헤이즐넛, 대두 성분이 포함될 가능성이 확인되어 자발적 리콜을 확대했습니다. 기존 2개 로트에서 추가 로트로 리콜 범위가 넓어졌으며, 알레르기 환자에게 심각한 건강 위험을 초래할 수 있습니다.",
+        "keywords": ["FDA 리콜", "알레르겐 미표기", "건강보조식품", "식품안전", "Blueroot Health"],
+        "ai_insight": "건강보조식품의 원료 관리와 알레르겐 표시 강화가 필수적이며, HACCP 인증 및 원료 추적 시스템을 도입한 기업이 시장 신뢰를 확보할 수 있습니다."
+      },
+      {
         "title": "Blaine Labs, Inc Issues Voluntary Nationwide Recall of Wound Care Gel Products Due to Microbial Contamination",
         "source": "FDA Recalls",
         "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/blaine-labs-inc-issues-voluntary-nationwide-recall-wound-care-gel-products-due-microbial",
-        "published": "Wed, 08 Apr 2026 17:40:00 EDT",
-        "summary": "Blaine Labs가 미생물 오염을 이유로 상처 치료용 젤 제품을 전국적으로 자진 리콜했습니다. FDA가 발표한 이번 리콜은 소비자 안전을 위한 예방적 조치로, 해당 제품 사용자는 즉시 사용을 중단해야 합니다. 제조사는 오염 원인 파악 및 재발 방지를 위해 조사를 진행 중입니다.",
-        "keywords": ["Blaine Labs", "리콜", "미생물 오염", "상처 치료 젤", "FDA"],
-        "ai_insight": "의료·미용 제품 제조업체는 미생물 오염 리스크를 최소화하기 위해 제조 시설의 위생 관리 체계를 주기적으로 감사하고, 리콜 발생 시 신속한 소비자 커뮤니케이션 프로토콜을 사전에 준비해 두어야 합니다."
+        "published": "2026-04-08",
+        "summary": "캘리포니아 산타페스프링스의 Blaine Labs가 미생물 오염으로 인해 상처 치료 젤 제품 3개 로트를 전국 규모로 자발적 리콜합니다. 0.1% Benzalkonium Chloride 성분의 1oz 및 3oz 제품이 대상이며, 소비자 단계까지 리콜이 진행됩니다.",
+        "keywords": ["미생물 오염", "상처치료제", "FDA 리콜", "Blaine Labs", "품질관리"],
+        "ai_insight": "의료·위생 제품의 무균 공정 관리가 핵심이며, 실시간 미생물 모니터링 시스템 구축이 리콜 예방의 첫 걸음입니다."
       },
       {
         "title": "Nalpac Issues Voluntary Nationwide Recall of DTF Sexual Chocolate Due to the Presence of the Pharmaceutical Ingredient's Sildenafil and Tadalafil",
         "source": "FDA Recalls",
         "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/nalpac-issues-voluntary-nationwide-recall-dtf-sexual-chocolate-due-presence-pharmaceutical",
-        "published": "Mon, 06 Apr 2026 15:23:00 EDT",
-        "summary": "Nalpac이 'DTF Sexual Chocolate' 제품에서 처방 의약품 성분인 실데나필(Sildenafil)과 타다라필(Tadalafil)이 검출되어 전국 자진 리콜을 실시했습니다. 이 성분들은 의사 처방 없이 복용할 경우 심각한 부작용을 유발할 수 있어 FDA가 소비자에게 즉시 사용 중단을 권고했습니다. 식품·건강기능식품에 의약품 성분이 무단 혼입된 사례로, 관련 업계의 성분 검사 강화가 요구됩니다.",
-        "keywords": ["Nalpac", "리콜", "실데나필", "타다라필", "의약품 혼입"],
-        "ai_insight": "건강기능식품 및 식품 유사 제품 제조·유통사는 원자재 공급업체로부터 의약품 성분 무혼입 확인서를 정기적으로 받고, 제3자 성분 검사를 통해 컴플라이언스 리스크를 사전에 차단해야 합니다."
+        "published": "2026-04-06",
+        "summary": "미시간주 펀데일의 Nalpac이 재판매한 DTF Sexual Chocolate 제품에서 의약품 성분인 실데나필과 타다라필이 검출되어 전국 규모 자발적 리콜을 실시합니다. 미신고 의약성분 함유로 소비자 건강에 심각한 위험을 초래할 수 있습니다.",
+        "keywords": ["의약성분 혼입", "실데나필", "타다라필", "FDA 리콜", "식품 위해"],
+        "ai_insight": "식품에 미신고 의약성분이 혼입되는 사례가 반복되고 있어, 공급망 전체의 성분 검증 체계 강화가 식품안전 사업의 핵심 기회입니다."
       },
       {
         "title": "Wawa Issues Product Recall on 16-oz. Wawa Brand Iced Tea Lemon, Iced Tea Diet Lemon, Diet Lemonade and Fruit Punch Due to Possible Undeclared Milk Allergen",
         "source": "FDA Recalls",
         "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/wawa-issues-product-recall-16-oz-wawa-brand-iced-tea-lemon-iced-tea-diet-lemon-diet-lemonade-and",
-        "published": "Fri, 03 Apr 2026 16:39:00 EDT",
-        "summary": "Wawa가 16온스 브랜드 아이스티(레몬, 다이어트 레몬), 다이어트 레모네이드, 과일 펀치 제품에서 우유 알레르겐이 미표기된 사실이 확인되어 리콜을 발령했습니다. 유제품 알레르기가 있는 소비자가 해당 제품을 섭취할 경우 심각한 알레르기 반응이 발생할 수 있습니다. Wawa는 소비자에게 해당 제품을 즉시 폐기하거나 구입처에 반품할 것을 권고했습니다.",
-        "keywords": ["Wawa", "알레르기", "우유 알레르겐", "리콜", "음료"],
-        "ai_insight": "음료 및 식품 브랜드는 제조 라인 변경이나 원료 대체 시 알레르겐 표기 검토 절차를 의무화해, 미표기 알레르겐으로 인한 리콜과 소비자 피해를 예방해야 합니다."
-      },
-      {
-        "title": "Karns Foods Issues Voluntary Recall of Mini Dark Chocolate Raspberry Cups Due to Undeclared Peanuts",
-        "source": "FDA Recalls",
-        "link": "http://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/karns-foods-issues-voluntary-recall-mini-dark-chocolate-raspberry-cups-due-undeclared-peanuts",
-        "published": "Thu, 02 Apr 2026 16:52:00 EDT",
-        "summary": "Karns Foods가 미니 다크 초콜릿 라즈베리 컵 제품에 땅콩이 미표기된 것을 확인하고 자진 리콜을 실시했습니다. 땅콩 알레르기 환자는 해당 제품 섭취 시 아나필락시스 등 심각한 반응을 경험할 수 있습니다. FDA와 제조사는 땅콩 알레르기가 있는 소비자에게 제품을 즉시 버리거나 반품하도록 안내하고 있습니다.",
-        "keywords": ["Karns Foods", "땅콩 알레르기", "리콜", "초콜릿", "알레르겐 미표기"],
-        "ai_insight": "식품 포장 라인을 공유하는 제조업체는 알레르겐 교차 오염 방지 격리 기준을 강화하고, 라벨 검수 자동화 시스템 도입으로 미표기 알레르겐 리콜 리스크를 줄일 수 있습니다."
+        "published": "2026-04-03",
+        "summary": "미국 편의점 체인 Wawa가 우유 알레르겐 미표기 가능성으로 자사 브랜드 아이스티와 레모네이드 등 음료 4종을 리콜합니다. 펜실베이니아, 델라웨어, 메릴랜드 등 미 동부 지역 매장에서 판매된 16oz 제품이 대상입니다.",
+        "keywords": ["우유 알레르겐", "음료 리콜", "Wawa", "알레르기 미표기", "식품안전"],
+        "ai_insight": "대형 유통 체인의 자체 브랜드 제품에서도 알레르겐 표시 누락이 발생하고 있어, 자동화된 라벨링 검증 시스템의 시장 수요가 증가하고 있습니다."
       }
     ],
     "Cultured Meat": [
       {
         "title": "Is 'lab-grown' meat actually safe? - Popular Science",
-        "source": "Google News - Cultured Meat",
+        "source": "Popular Science",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xZUl5dVlBMlhFaGtVYW9xdEFBVVlTUDNpOExKcnc2Xzgyck5TM3laa05rcl9rT1hXbkdxMFpFVzQySHhLMm9BaVFlMUN5cWF5RUNhV1I2TmZ3VHJYOGRYc1hISQ?oc=5",
-        "published": "Tue, 07 Apr 2026 13:01:00 GMT",
-        "summary": "Popular Science가 배양육(lab-grown meat)의 안전성에 대한 과학적 근거를 심층 분석했습니다. 현재까지의 연구에 따르면 배양육은 전통 육류와 유사한 영양 프로파일을 가지나, 장기적 안전성과 규제 기준에 관한 연구가 아직 진행 중입니다. 소비자와 규제 당국 모두 배양육의 안전성 투명성 확보를 요구하는 목소리가 높아지고 있습니다.",
-        "keywords": ["배양육", "식품 안전", "랩그로운 미트", "규제", "과학"],
-        "ai_insight": "배양육 관련 사업을 계획하는 기업은 소비자 신뢰 확보를 위해 제3자 안전성 인증 및 투명한 생산 정보 공개를 선제적으로 실시하는 것이 시장 진입 장벽을 낮추는 데 효과적입니다."
+        "published": "2026-04-07",
+        "summary": "Popular Science가 배양육의 안전성 논란을 심층 분석합니다. 세포 배양 과정의 오염 위험, 장기 섭취 영향 등 아직 미해결 과학적 질문들이 남아있으며, 소비자 불안감이 상업화의 주요 장벽으로 작용하고 있습니다.",
+        "keywords": ["배양육 안전성", "식품안전", "세포배양", "소비자 인식", "Popular Science"],
+        "ai_insight": "배양육 안전성에 대한 과학적 검증 데이터가 축적될수록 인증·검사 서비스 시장이 확대될 것이며, 품질 인증 데이터 서비스가 핵심 사업 기회입니다."
       },
       {
         "title": "The Cultured Meat Industry is a Nascent Industry that is Scaling Fast - BioInformant",
-        "source": "Google News - Cultured Meat",
+        "source": "BioInformant",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BbGYtdTU4cEE2OGNwa2ttMmdtRUo0aG1BanlWcTNTMjZPQlFqUVdaQlRfUHRRTlpla2h1VDZWVmhGTG5Xc3lQTXRNYUhpYUVIOElfRDNmRXAwNWFs0gFiQVVfeXFMT0NrT1pQMHZsMzlNcmxVUG80RlJuOU8tQlN1SEdUempfT2pveU80ZTdkTlNTUDc3ZjluS1dIVkN1OE1ldDR5YzQwVnAyeVR5MjZMektZak1UYkdVbnVJUU1WWmc?oc=5",
-        "published": "Wed, 11 Feb 2026 08:00:00 GMT",
-        "summary": "BioInformant는 배양육 산업이 초기 단계임에도 불구하고 빠른 속도로 규모를 확대하고 있다고 분석했습니다. 글로벌 투자와 스타트업 수가 꾸준히 증가하고 있으며, 기술 성숙도와 생산 단가 절감이 상업화의 핵심 과제로 지목됩니다. 규제 승인과 소비자 수용성 향상이 업계 성장의 다음 관문으로 부상하고 있습니다.",
-        "keywords": ["배양육 산업", "스케일업", "바이오 스타트업", "투자", "상업화"],
-        "ai_insight": "배양육 공급망 또는 바이오리액터 기술에 투자를 고려하는 기업은 지금이 초기 시장 포지셔닝을 선점할 적기이며, 규제 승인 트래킹과 파트너십 확보 전략을 병행해야 합니다."
+        "published": "2026-02-11",
+        "summary": "BioInformant 보고서에 따르면 배양육 산업이 초기 단계이면서도 빠르게 스케일업하고 있습니다. 글로벌 투자 확대와 기술 발전으로 생산 규모가 급속히 확장되고 있으며, 아직 성장 여력이 큰 시장으로 평가됩니다.",
+        "keywords": ["배양육 산업", "스케일업", "투자 확대", "푸드테크", "시장 성장"],
+        "ai_insight": "배양육 산업의 급성장은 관련 센서, 모니터링, 품질관리 장비 수요도 동반 성장시키므로, 데이터 기반 품질 인증 서비스의 시장 진입 타이밍이 적절합니다."
+      },
+      {
+        "title": "Lab grown meat (still) getting mixed reactions - Beef Magazine",
+        "source": "Beef Magazine",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTVTdHZMU0J6WElKTGJIREE1S1FicGhQTUpQRVVMSHlRWGl0VndTelQtMjh1QUhvYlIyMjRaSlhDYjFSZ09QUndudHVyY3lYczFYY0xyRi1FLXpOa1lVaWcySUtkbkUxUC1YRWVCN3dEeURpLWJQUWlOVXREYW1jVG4tTTljLTJLQmhyb2xB?oc=5",
+        "published": "2026-02-19",
+        "summary": "Beef Magazine이 배양육에 대한 축산업계와 소비자의 엇갈린 반응을 분석합니다. 전통 축산업자들의 강한 반발이 지속되는 한편, 환경·동물복지 관심 소비자층은 확대되고 있어 시장 양극화가 심화되고 있습니다.",
+        "keywords": ["배양육 논란", "축산업", "소비자 반응", "시장 양극화", "대체육"],
+        "ai_insight": "배양육을 둘러싼 찬반 양극화는 객관적 데이터 기반의 품질 비교·인증 서비스에 대한 수요를 높이는 요인이 됩니다."
+      },
+      {
+        "title": "Rational design of serum-free media for cultivated meat - Nature",
+        "source": "Nature",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqazlDYktOdWFNdmZCMmJ1cTJZLWFwU0RGSE1oVW5OQ2NoSm5Sd2dJazhsZ2hkUlZyd2FXRVFrem1qcUVNTlNCRWVqSVhwUS1faGR4aUJFNjBSZEFjUGdF?oc=5",
+        "published": "2026-03-16",
+        "summary": "Nature지에 발표된 연구로, 배양육 생산에 필수적인 배양액에서 동물 혈청을 완전히 배제한 무혈청 배양액의 합리적 설계 방법론을 제시합니다. 이는 배양육 생산 비용을 획기적으로 절감할 수 있는 핵심 기술 돌파구입니다.",
+        "keywords": ["무혈청 배양액", "배양육 기술", "Nature", "생산비용 절감", "세포농업"],
+        "ai_insight": "무혈청 배양액 기술의 발전은 배양육 상용화를 앞당기는 핵심 변수이며, 배양 공정 최적화를 위한 실시간 센서 모니터링 기술의 수요가 증가할 전망입니다."
       },
       {
         "title": "Florida's ban on lab-grown meat upheld by federal appeals court in \"another loss for Frankenmeat\" - CBS News",
-        "source": "Google News - Cultured Meat",
+        "source": "CBS News",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUm1waFM4S3g2TV9QSEs3czhYLU11MVJnV1FGSTd4VnBEQldnRW9qTFRwemJqbGkwQjVBcGtOUVoxX0lzclZ3Z2VhWkF3WWJMNzdQRmxwNGYtN1l0a1lDclViOFVYT0szVjBxV09lTUpSRmxPcjlBQ2Vhd19wZjJXYm84anJZWlRSMEdxaDYwSGlVU2w3ZVZWWm56Um9ja243cnpQTXdHX0lleEdELUpRaVNDcDVnMnZndGlhdkxFYjhWUk5HNUlF?oc=5",
-        "published": "Tue, 24 Mar 2026 07:00:00 GMT",
-        "summary": "미국 연방 항소법원이 플로리다 주의 배양육 판매 금지법을 지지하는 판결을 내렸습니다. 이 판결은 배양육을 '프랑켄미트'라고 표현한 반대 진영의 또 다른 승리로 평가되며, 미국 내 배양육 상업화에 큰 걸림돌이 되고 있습니다. 업계는 연방 차원의 통일된 규제 기준 마련을 촉구하고 있습니다.",
-        "keywords": ["플로리다", "배양육 금지", "항소법원", "규제", "미국 법원"],
-        "ai_insight": "배양육 사업 계획 시 미국 시장은 주별 규제 편차가 크므로, 법적으로 허용된 주에서 우선 출시하고 연방 규제 동향을 모니터링하며 시장 진입 전략을 단계적으로 수립해야 합니다."
-      },
-      {
-        "title": "Only one restaurant in Texas sells lab-grown meat. Lawmakers banned it anyway. - The Texas Tribune",
-        "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESUFFMGNIa25tNGJ0MEpGYUMzcFdvVHBlOUZKR2FEYk9mbGVnS2ZnZjhuVzdiWkRvN190cklZRU0zMWJzUWJUNUw2bl9xcWNIS1dpTFp0aTdFai1TME1hcXU0MDc5V1BFLTZBUHZsQkZVRmwwOEI1ZUx0SXNtdlE?oc=5",
-        "published": "Mon, 25 Aug 2025 07:00:00 GMT",
-        "summary": "텍사스 주에서 배양육을 판매하는 식당은 단 한 곳뿐임에도 불구하고 주 의회가 배양육 판매를 전면 금지하는 법안을 통과시켰습니다. 이 사례는 실질적 시장 규모보다 정치적·산업적 이해관계가 식품 규제에 큰 영향을 미친다는 것을 보여줍니다. 전통 축산업계의 로비와 소비자 불안이 배양육 규제 강화의 배경으로 작용하고 있습니다.",
-        "keywords": ["텍사스", "배양육 금지", "식품 규제", "축산업 로비", "입법"],
-        "ai_insight": "배양육 및 대체 단백질 사업자는 주요 농업 주(텍사스, 플로리다 등)에서의 입법 리스크를 사업 계획에 반영하고, 지역 농업계와 협력 관계를 구축하는 공존 전략이 장기적으로 유리합니다."
-      },
-      {
-        "title": "What Is Lab-Grown Meat and Is It Safe To Eat? - Health: Trusted and Empathetic Health and Wellness Information",
-        "source": "Google News - Cultured Meat",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TN210WlEyRDZSbi1yTU5jRVB2ZmZjcmJuNDVHUnBTT2xJQldFNHRITk9NWUFGS0RKUVVEazV2X2dTb1RSLU9DZllHVUFpUGhidXVXZFNCbmk3TXpPYmc?oc=5",
-        "published": "Tue, 17 Feb 2026 08:00:00 GMT",
-        "summary": "Health 매체가 배양육의 정의와 식품 안전성에 대해 일반 소비자 관점에서 알기 쉽게 설명했습니다. 배양육은 동물 세포를 실험실에서 배양해 만든 고기로, 전통 도축 과정 없이 생산됩니다. 현재까지는 안전성이 우려될 근거가 없다는 전문가 의견이 주를 이루지만, 장기 섭취 데이터가 부족한 점은 소비자에게 여전히 불확실성으로 남아 있습니다.",
-        "keywords": ["배양육", "식품 안전성", "세포 배양", "소비자 정보", "건강"],
-        "ai_insight": "배양육에 관한 소비자 교육 콘텐츠 수요가 증가하고 있으므로, 관련 기업은 신뢰할 수 있는 과학적 정보를 기반으로 한 콘텐츠 마케팅을 통해 소비자 인식 개선과 브랜드 신뢰도 제고를 동시에 달성할 수 있습니다."
+        "published": "2026-03-24",
+        "summary": "플로리다주의 배양육 판매 금지법이 연방항소법원에서 합헌 판결을 받았습니다. '프랑켄미트'라 불리는 배양육에 대한 또 다른 법적 패배로, 미국 내 배양육 상업화의 규제 장벽이 더욱 높아졌습니다.",
+        "keywords": ["배양육 금지", "플로리다", "규제", "합헌 판결", "식품 규제"],
+        "ai_insight": "미국 내 배양육 규제가 주(州)별로 강화되는 추세이므로, 배양육 기업은 규제가 유연한 아시아·유럽 시장 진출 전략을 우선 고려할 필요가 있습니다."
       }
     ],
     "High-End Audio": [
       {
-        "title": "Final Audio DX3000CL vs DX4000CL: Which Closed-Back Audiophile Headphone Is Worth It? - Major HiFi",
-        "source": "Google News - Hi-Fi Audio",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1pCZm8xeVlaYXQ4MU1YeVpDaFk0QlNmWFNtb2ZSbnBjQmkxT1NLNjgyX1BIM2REM3FQVWNqdmVzekRMdloteFI0MG1pWUwzOXNEMkJJMHBoUWdFcnNOajNUSWFtWmNjVDZOZjlzZWhFU1NDbDI4a3dPNWdzRkU1dTRscmtra2ZUVGdkUjBTZ3lfalNWRy1ZREQtQ0g5dWNFQ1MwWDVZMHU1QQ?oc=5",
-        "published": "Thu, 09 Apr 2026 20:12:19 GMT",
-        "summary": "Major HiFi가 Final Audio의 클로즈드백 헤드폰 DX3000CL과 DX4000CL을 비교 리뷰했습니다. 두 모델 모두 고해상도 오디오 재생에 최적화된 프리미엄 제품으로, 가격 대비 성능과 차별화된 특징이 소비자 선택의 핵심 기준으로 제시됩니다. 오디오파일 시장에서 클로즈드백 헤드폰 수요가 꾸준히 늘고 있음을 보여주는 사례입니다.",
-        "keywords": ["Final Audio", "클로즈드백 헤드폰", "DX3000CL", "DX4000CL", "하이파이"],
-        "ai_insight": "하이엔드 오디오 리테일러는 비교 리뷰 콘텐츠가 구매 결정에 미치는 영향력을 활용해, 자사 제품의 상세 스펙 비교 페이지와 체험 이벤트를 병행하면 프리미엄 고객 전환율을 높일 수 있습니다."
+        "title": "EISA Hi-Fi Awards 2025-2026",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/eisa-hi-fi-awards-2025-2026",
+        "published": "2025-08-15",
+        "summary": "26개국 53개 전문 매체가 참여하는 EISA(Expert Imaging and Sound Association)가 2025-2026 하이파이 어워드 수상작을 발표했습니다. Hi-Fi, 홈시어터, 모바일, 차량용 전자 등 다양한 분야에서 최고의 제품들이 선정되었습니다.",
+        "keywords": ["EISA 어워드", "하이파이", "오디오 수상작", "Stereophile", "오디오 시장"],
+        "ai_insight": "EISA 어워드 수상 제품 트렌드를 분석하면 오디오 시장의 기술 방향성(스트리밍, 클래스D 앰프 등)을 파악할 수 있어, 관련 사업 기획에 참고할 수 있습니다."
       },
       {
-        "title": "20 Most Expensive Hi-Fi Speakers in the World and the Insane Reasons Behind Their Price Tag - Headphonesty",
-        "source": "Google News - Hi-Fi Audio",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82dnFkeUtYQTNGNUlVd3Y1a081Vndtajc1RmxrbVRHYlloUzlnV19Oai1iVjduQVQ1anlDRk53V05FdXdibGY2VE9BRHo1S2hPZC16SmJzYTFCV1MxZUcyZ1lGRVo0TmlkTGFveXRyWXFTT3dYdUZCUVQ4UmE?oc=5",
-        "published": "Fri, 10 Apr 2026 08:12:14 GMT",
-        "summary": "Headphonesty가 세계에서 가장 비싼 하이파이 스피커 20종과 그 고가의 이유를 분석했습니다. 수백만 달러에 달하는 제품들은 희귀 소재, 수제 제작, 독자적 음향 기술 등이 가격을 결정하는 주요 요소입니다. 이 콘텐츠는 하이엔드 오디오 시장의 럭셔리 소비 트렌드와 브랜드 스토리텔링의 중요성을 잘 보여줍니다.",
-        "keywords": ["하이파이 스피커", "세계 최고가", "럭셔리 오디오", "프리미엄 스피커", "Headphonesty"],
-        "ai_insight": "초고가 하이파이 제품의 성공 공식은 희소성과 장인 정신 스토리에 있으므로, 프리미엄 오디오 브랜드는 제품 제작 과정과 소재의 이야기를 콘텐츠화하여 브랜드 가치를 극대화하는 전략이 효과적입니다."
+        "title": "Schaumburg, eventually. Dutch & Dutch, thankfully. — AXPONA 2026 리뷰",
+        "source": "Stereophile",
+        "link": "http://www.stereophile.com/content/schaumburg-eventually-dutch-dutch-thankfully",
+        "published": "2026-04-10",
+        "summary": "Stereophile 기자가 AXPONA 2026 오디오 쇼 참관기를 공유합니다. Dutch & Dutch의 신형 15c 프리프로덕션 스피커가 행사장에서 처음 공개되었으며, 액티브 스피커 시장의 새로운 방향성을 제시했습니다.",
+        "keywords": ["AXPONA 2026", "Dutch & Dutch", "액티브 스피커", "오디오 쇼", "하이엔드"],
+        "ai_insight": "AXPONA 같은 글로벌 오디오 전시회는 하이엔드 오디오 시장의 최신 트렌드와 네트워크를 확보할 수 있는 핵심 채널입니다."
       },
       {
-        "title": "An American Hi-Fi Icon Just Made Its Gorgeous Audiophile Loudspeakers Way More Affordable - Yahoo Tech",
-        "source": "Google News - Hi-Fi Audio",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjAzeXd2dDdvUGxUdFVXNGVYZTh3ZnM2NjdfRUhUNy1zcVNaYkRqV2pkTFBRZHZjZTcyY01aMm5SSVpXY1BfOW56OFNWX1ptT2h3dTVOTVJXVWp4MVVMOU9PWGstLTJCMGpCSzJZT3cxaWdmQi1Xck8xa1ZxdVM4LTM5aw?oc=5",
-        "published": "Wed, 08 Apr 2026 16:57:40 GMT",
-        "summary": "미국의 저명한 하이파이 브랜드가 기존 오디오파일 스피커 라인업을 더 합리적인 가격에 출시해 주목받고 있습니다. 이는 고급 오디오 시장의 진입 장벽을 낮추려는 전략으로, 더 넓은 소비자층을 겨냥한 포지셔닝 변화를 의미합니다. 프리미엄 사운드를 적정 가격에 제공하는 'accessible luxury' 트렌드가 오디오 업계에서 강화되고 있습니다.",
-        "keywords": ["미국 하이파이", "가격 인하", "오디오파일 스피커", "프리미엄 오디오", "접근성"],
-        "ai_insight": "프리미엄 오디오 브랜드가 가격 접근성을 높이는 전략은 신규 고객 유입에 효과적이므로, 기존 고가 라인업과 신규 합리적 가격 라인의 명확한 포지셔닝 분리가 브랜드 희소성을 유지하는 데 중요합니다."
+        "title": "The Best New Gadgets and Hi-Fi Releases of 2026 (Updated)",
+        "source": "Gear Patrol",
+        "link": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-april-week-1/",
+        "published": "2026-04-10",
+        "summary": "Gear Patrol이 2026년 4월 첫째 주 기준 최고의 신규 오디오·하이파이 제품을 정리했습니다. 스피커, DAC, 앰프, 스트리머 등 다양한 카테고리에서 주목할 만한 신제품들이 소개되었습니다.",
+        "keywords": ["신제품 리뷰", "하이파이", "Gear Patrol", "DAC", "오디오 장비"],
+        "ai_insight": "하이파이 신제품 트렌드를 추적하면 프리미엄 오디오 시장의 소비자 선호 변화를 파악할 수 있어, 관련 제품 큐레이션이나 리뷰 콘텐츠 사업에 활용 가능합니다."
       },
       {
-        "title": "A Respected Hi-Fi Brand Just Made Its Affordable Audiophile Speakers Even Better - Gear Patrol",
-        "source": "Google News - Hi-Fi Audio",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0dXRKQ1FaMEhLVVVwNWNabTBZaW5yOS1ldEJHYnJfVk5pZTlxejRjZDN0c0NZVVdjYmNPZlBjS3RqSGt0Ti1wbWlSSUxLUTBBRHhzdGlUaTFIVk1YZVU5RGE2S25Oa2NqbG5DQnhZU0k3NnJhTG02M1dYNWFWUQ?oc=5",
-        "published": "Thu, 09 Apr 2026 20:57:45 GMT",
-        "summary": "Gear Patrol가 합리적 가격대의 오디오파일 스피커를 업그레이드한 하이파이 브랜드를 소개했습니다. 성능은 높이면서 가격 경쟁력을 유지한 이 제품은 입문형 오디오파일 시장에서 강력한 선택지로 부상했습니다. 사운드 품질과 가성비를 동시에 추구하는 소비자 트렌드에 부응한 사례로 평가됩니다.",
-        "keywords": ["하이파이 스피커", "가성비", "오디오파일", "Gear Patrol", "업그레이드"],
-        "ai_insight": "가성비 오디오 제품의 성능 개선 소식은 커뮤니티 리뷰어와 유튜브 채널을 통해 빠르게 확산되므로, 브랜드는 인플루언서 시청 프로그램과 얼리어답터 프로모션을 활용해 초기 버즈를 극대화해야 합니다."
+        "title": "7 Best High-End DACs for Audiophile Systems (2026 Edition)",
+        "source": "TMR Audio",
+        "link": "https://tmraudio.com/blogs/the-gearhead/7-best-high-end-dacs-for-audiophile-systems-2026-edition",
+        "published": "2026-04-08",
+        "summary": "TMR Audio가 2026년 오디오파일 시스템을 위한 최고의 하이엔드 DAC 7종을 선정하여 리뷰합니다. R2R, 델타-시그마 등 다양한 방식의 DAC 기술과 음질 특성을 비교 분석했습니다.",
+        "keywords": ["하이엔드 DAC", "오디오파일", "TMR Audio", "음질 리뷰", "R2R DAC"],
+        "ai_insight": "고해상도 음원과 스트리밍 서비스 확산에 따라 하이엔드 DAC 시장이 성장하고 있으며, 측정 데이터 기반의 객관적 음질 평가 콘텐츠가 차별화 요소가 됩니다."
       },
       {
-        "title": "An American Hi-Fi Icon Just Made Its Gorgeous Audiophile Loudspeakers Way More Affordable - Gear Patrol",
-        "source": "Google News - Hi-Fi Audio",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJd3BqM1FnYXFPYTVwUU10c180VXpyS2JheGNVOHhweE91akpMQjBTb0t1VGFFdUU4UFp1TXdDS3RXWDJwNG1Pb1EzUDRmSUtRUUl4Y1FoWDRkVVJYdWV6cUhZR3Q?oc=5",
-        "published": "Wed, 08 Apr 2026 16:57:40 GMT",
-        "summary": "Gear Patrol가 미국의 전설적인 하이파이 브랜드의 고급 스피커 라인업이 더 저렴한 가격으로 출시되었다는 소식을 전했습니다. 기존 고가 제품의 음향 기술을 보급형 모델에 적용해 더 많은 오디오 팬들이 최고 수준의 사운드를 경험할 수 있게 됐습니다. 이 움직임은 하이파이 시장 전반의 '민주화' 트렌드를 반영하는 것으로 분석됩니다.",
-        "keywords": ["미국 하이파이 아이콘", "스피커 가격 인하", "오디오 민주화", "Gear Patrol", "프리미엄 사운드"],
-        "ai_insight": "고가 오디오 브랜드의 합리적 가격 라인 출시는 시장 저변 확대에 유리하므로, 유통 파트너십 다각화와 온라인 직판 채널 강화를 통해 새로운 소비자 접점을 신속하게 구축해야 합니다."
+        "title": "Best Desktop DACs / Amps / Streamers for Home Audio 2026",
+        "source": "Head-Fi.org",
+        "link": "https://www.head-fi.org/threads/best-desktop-dacs-amps-streamers-for-home-audio-2026-top-sellers-ranked.979202/",
+        "published": "2026-04-07",
+        "summary": "Head-Fi 커뮤니티가 2026년 데스크톱 DAC, 앰프, 스트리머 분야의 베스트셀러를 순위별로 정리했습니다. 실사용자 평가와 판매 데이터를 기반으로 가성비와 성능 모두를 고려한 추천 목록을 제공합니다.",
+        "keywords": ["데스크톱 오디오", "DAC 순위", "Head-Fi", "스트리머", "앰프 추천"],
+        "ai_insight": "커뮤니티 기반 순위와 리뷰 데이터는 소비자 구매 결정에 큰 영향을 미치므로, 오디오 제품 마케팅에서 커뮤니티 참여 전략이 중요합니다."
       }
     ],
     "Computer & AI": [
       {
+        "title": "Why clinical listening skills outpace artificial intelligence - KevinMD.com",
+        "source": "KevinMD.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWJFcmpPYzNYZmxoQlZKMDM0Mi1zMVNfaDl5ZUo5RGc5TllaMC1oZFplQ2tFVTRqRlN4d0xtbjdtQTZWT0hFOE9Kck5OM3g5d1B3NVBsb2pBdTJTZXZDcWY1Zmd3SDNJSEwtLTJMTHQ3QXNCTlA2bHBVV3pMVVNmWmxPOUdvRFBwZ09hTU51ZEVEUlJpZ2xnb19R?oc=5",
+        "published": "2026-04-10",
+        "summary": "의료 전문가가 임상 현장에서의 경청 능력이 AI 진단보다 여전히 우위에 있다고 주장합니다. AI가 데이터 분석에서 강점을 보이지만, 환자의 미묘한 감정과 맥락을 이해하는 인간 고유의 능력은 대체 불가하다는 관점을 제시합니다.",
+        "keywords": ["AI 의료", "임상 경청", "AI 한계", "의사소통", "헬스케어 AI"],
+        "ai_insight": "AI 도입이 확산되는 의료 분야에서도 '인간 중심' 접근이 여전히 핵심이며, AI를 보조 도구로 활용하되 최종 판단은 전문가에게 맡기는 모델이 신뢰를 얻습니다."
+      },
+      {
+        "title": "Artificial intelligence technology is 'only going to get better,' hotel experts say - CoStar",
+        "source": "CoStar",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQem5iRW1UQzBZdlNic1hFYTdadUsxdmRtQUNDT2Qxbl9wdFpEU3plX2RNYVU1UXNDQUxPM0FnTXk4SndOOF85RDNJamdIZVVCSTFEaE5qUDFfY3RwM1plUG5VdG1IdXd5dXZPbGE4OUxFS0RhTTVETkpVZURmQkNTZTNiX0l0V3JTUlI0cU9QdU85RjdvRGo0U05Zbko2ZnRyWGQ4UC1NelE3ZU5rb0VNZ3Q2OFNBcV90RkRYS3hB?oc=5",
+        "published": "2026-04-10",
+        "summary": "호텔 산업 전문가들이 AI 기술이 '계속 나아질 것'이라 전망하며, 호텔 디자인과 고객 서비스 분야에서의 AI 활용 확대를 예측합니다. 개인화된 경험 제공과 운영 효율화가 핵심 적용 분야로 꼽힙니다.",
+        "keywords": ["호텔 AI", "서비스 자동화", "개인화", "호스피탈리티", "AI 도입"],
+        "ai_insight": "호텔·서비스업의 AI 도입 사례는 스마트팜이나 식품안전 분야에서도 벤치마킹할 수 있는 '고객 경험 개인화' 모델을 제시합니다."
+      },
+      {
         "title": "Amazon CEO Andy Jassy Just Delivered Bad News for the Artificial Intelligence (AI) Bears - The Motley Fool",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFhva1hLemZBY0tBR2JiNlRuamp0b19MM2Vnc0g1Rk9DN203alphTThJZG9VbmZyc00yd3JnX0NCS1l0NXQ3LWU4OXlRQUlhbnRZcEpuOXhUUXg2UFJhZnZDeFlvMS02VEVpblNiM29MVVRhcHlkSVUzbTZOcU9yM2UzZ1lsMVNJdzc3RDR2VG5lQUdVZ2tr?oc=5",
-        "published": "Fri, 10 Apr 2026 17:59:00 GMT",
-        "summary": "아마존 CEO 앤디 재시가 AI에 대한 비관론을 반박하며 AI 인프라 및 서비스에 대한 지속적인 대규모 투자 의지를 천명했습니다. 재시는 AWS의 AI 수요가 예상을 상회하고 있다고 밝히며, AI 기술이 기업 생산성과 수익성을 실질적으로 끌어올리고 있다고 강조했습니다. 이 발언은 AI 투자 과열 우려를 불식시키는 신호로 시장에 받아들여지고 있습니다.",
-        "keywords": ["앤디 재시", "아마존", "AWS", "AI 투자", "인공지능"],
-        "ai_insight": "아마존의 AI 강세 신호는 AWS 기반 AI 서비스 수요 증가를 의미하므로, 클라우드 AI 인프라 도입을 고려 중인 기업은 AWS 파트너십 또는 직접 도입을 가속화해 경쟁 우위를 선점할 적기입니다."
+        "source": "The Motley Fool",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFhva1hLemZBY0tBR2JiNlRuamp0b19MM2Vnc0g5Rk9DN203alphTThJZG9VbmZyc00yd3JnX0NCS1l0NXQ3LWU4OXlRQUlhbnRZcEpuOXhUUXg2UFJhZnZDeFlvMS02VEVpblNiM29MVVRhcHlkSVUzbTZOcU9yM2UzZ1lsMVNJdzc3RDR2VG5lQUdVZ2tr?oc=5",
+        "published": "2026-04-10",
+        "summary": "Amazon CEO 앤디 재시가 AI 비관론자들에게 반박하며, AWS의 AI 인프라 수요가 공급을 초과하고 있다고 밝혔습니다. 기업용 AI 서비스와 클라우드 인프라에 대한 투자를 지속 확대할 계획을 강조했습니다.",
+        "keywords": ["Amazon", "AWS", "AI 투자", "앤디 재시", "클라우드 AI"],
+        "ai_insight": "AWS의 AI 인프라 확장은 중소기업도 AI 기술을 저비용으로 도입할 수 있는 환경을 만들고 있어, 클라우드 기반 AI 서비스 활용을 적극 검토할 시점입니다."
       },
       {
-        "title": "Artificial intelligence driven controllers imitating the human brain could strengthen the grid - EurekAlert!",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QMVFPR0xjN25QOHN3SmxLM1EtQVpFZ3JsV3NGcmRValdZenhyMFY2S3o3UEx0U2tsT191NElsWTJ5SGxUSHdWSm4xZnA0T2pYaEc1OEY0amdkRkFp?oc=5",
-        "published": "Fri, 10 Apr 2026 15:24:02 GMT",
-        "summary": "뇌의 신경망을 모방한 AI 기반 컨트롤러가 전력망 안정성 강화에 기여할 수 있다는 연구 결과가 EurekAlert!에 소개됐습니다. 이 기술은 전력 수요의 급격한 변동에 실시간으로 대응할 수 있어 재생에너지 통합과 스마트 그리드 구축에 핵심 역할을 할 것으로 기대됩니다. AI가 에너지 인프라 분야까지 적용 영역을 넓히며 산업 패러다임 변화를 주도하고 있습니다.",
-        "keywords": ["AI 컨트롤러", "전력망", "스마트 그리드", "뇌 모방 AI", "에너지"],
-        "ai_insight": "AI 기반 전력망 최적화 기술은 에너지 효율화를 추구하는 제조업체와 데이터센터 운영사에게 즉각적인 비용 절감 기회를 제공하므로, 관련 솔루션 파트너십 탐색을 적극 검토할 가치가 있습니다."
+        "title": "Gen Z increasingly skeptical of — and angry about — artificial intelligence - Route Fifty",
+        "source": "Route Fifty",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdm9lNTJCMktiUUI3Ml9WZGt4VGJZNEU0Rjhya1FFWHRrV1kzbHlpMmNEdkxvRUxVZFNUa1owOXFIZnBfcWJyaWNLWGNrTDJxcVF5YWxHSVd5bnZZZF9qT2tsSlFYeWhZZXVxVVZZenBaUWhNbkNMWGI3S0hYckhvcWpYVkpZWUhKeXlYejQzeDJXSjA2NDI1VFIyVEozY2VuSi00QkxtMU1Ob1N0dlNzSHJJTE9uS3VWUWpxYUJQV0R5M1pqWFVlalFZVU9zYVJRbldrZ19UUkZHVWRrN05fMkdUSUpyNE4xQ2xLVTRWdlo?oc=5",
+        "published": "2026-04-10",
+        "summary": "Gen Z 세대가 AI 기술에 대해 점점 더 회의적이고 분노하는 경향이 뚜렷해지고 있다는 조사 결과가 발표되었습니다. 일자리 대체 우려, 개인정보 침해, 창작물 저작권 문제 등이 주요 불만 사항으로 나타났습니다.",
+        "keywords": ["Gen Z", "AI 회의론", "일자리 대체", "개인정보", "세대 갈등"],
+        "ai_insight": "젊은 세대의 AI 불신은 기술 기업이 투명성과 윤리적 AI 사용을 강조해야 하는 이유이며, 사용자 동의 기반 데이터 활용이 브랜드 신뢰 구축의 핵심입니다."
       },
       {
-        "title": "How much electricity is needed to power OpenAI's ChatGPT? - Austin American-Statesman",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdmtoeHpfYjFiX29TdFVWRjJxV3Y3SFVuYVBGcUhFWVRIc0J1Y051cHhKQ3FqV3Vaa2tvTEloMWU2emhPR3BlMTljTTdUS2dLYTZVa1o1MjhYS24xWHlhampFNlNmNEt2VFZEQ242WGxUdGg1Z3hwOGJvbTBOSlhuclFVbDUtZjdvajFpX2Q4bFQ5VDVacjd2R3lKQ3BYNkk2?oc=5",
-        "published": "Fri, 10 Apr 2026 10:11:05 GMT",
-        "summary": "Austin American-Statesman이 OpenAI의 ChatGPT를 구동하는 데 필요한 전력량을 심층 분석했습니다. ChatGPT 한 번의 질의응답에 기존 구글 검색 대비 수십 배의 전력이 소비되는 것으로 추정되며, AI 서비스 확산에 따른 에너지 소비 급증이 사회적 과제로 부각되고 있습니다. 데이터센터의 탄소 발자국을 줄이기 위한 에너지 효율화 기술 수요도 함께 증가하고 있습니다.",
-        "keywords": ["ChatGPT", "전력 소비", "AI 에너지", "OpenAI", "데이터센터"],
-        "ai_insight": "AI 서비스의 전력 소비 이슈는 그린 AI와 탄소중립 데이터센터 솔루션에 대한 기업 및 규제 기관의 관심을 높이고 있으므로, 관련 기술·서비스 기업은 친환경 AI 운영 역량을 핵심 차별점으로 마케팅에 활용해야 합니다."
-      },
-      {
-        "title": "Prediction: These 2 Artificial Intelligence (AI) Stocks Will Finish 2026 Higher Than Where They Started. Here's Why. - Yahoo Finance",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMWtLaDVsVzJaNXJlMTg0QlJ3U0RSVUYwUjJROHZReHk2UEQ5eGN2V1NMT19uVVFsNUJWS3ZoVWJsdlFSQjNKdnlpcHB6SURlUVZIMG11cGtIdGktcDBxWExRakRvYXVscEZuemNyVFFOWkFaOGRoaXhYMktwV0kxU0wyTk9BODFTWmx6bVZ6Z3FpQ0dyaWRqR2FfM1pZQS0xNEJjSjVUaw?oc=5",
-        "published": "Fri, 10 Apr 2026 14:40:00 GMT",
-        "summary": "Yahoo Finance가 2026년 말까지 연초 대비 상승이 예상되는 AI 관련 주식 2종을 분석·추천했습니다. 해당 종목들은 AI 인프라 수요 확대, 안정적 수익 구조, 강력한 시장 포지셔닝을 갖추고 있다는 점이 선정 근거로 제시됐습니다. AI 주식에 대한 투자자 관심이 여전히 높으며, 옥석 가리기 국면에서 펀더멘털 강한 기업이 주목받고 있습니다.",
-        "keywords": ["AI 주식", "투자 전망", "2026 주가 예측", "Yahoo Finance", "인공지능 투자"],
-        "ai_insight": "AI 관련 주식 투자 시 단순 AI 테마 노출 외에도 실질 수익 모델과 인프라 경쟁력을 보유한 기업을 선별하는 것이 2026년 하반기 포트폴리오 방어에 유리합니다."
-      },
-      {
-        "title": "News | Artificial intelligence will bring 'resurgence of detail' to hotel design - CoStar",
-        "source": "Google News - AI",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTUNQVnpYWE9Nb1JrYk44enAtaWFadG1LOEpGNGNrOXdxejdzTlIxYlQwUW5OZkZNeERqbndaWDdQTG5UUmpsQV9CVXdOaWdDZWg4cWpRTFdzMG04aGdxdEVDWUIyeUJtekxkTUlBWFNVUnFqdzY5c3NsUFhnbVlhZlBueFZ0WURvamZ3SjkxcGxPRW8tWlNPa2FZM0kxVFFibll2NTVCRlg3dDlVaGVBRmNSRQ?oc=5",
-        "published": "Fri, 10 Apr 2026 12:53:11 GMT",
-        "summary": "CoStar가 AI가 호텔 인테리어 디자인에 '디테일의 부활'을 가져올 것이라는 업계 전문가의 전망을 소개했습니다. AI 도구를 활용하면 개인화된 공간 디자인과 비용 효율적인 시공이 동시에 가능해져 호텔 브랜드의 차별화 전략이 강화될 수 있습니다. 부동산·호스피탈리티 분야에서 AI 활용이 단순 자동화를 넘어 창의적 디자인 영역으로 확장되고 있습니다.",
-        "keywords": ["AI 호텔 디자인", "인테리어 AI", "호스피탈리티", "CoStar", "공간 디자인"],
-        "ai_insight": "호텔 및 상업 공간 개발사는 AI 디자인 도구를 초기 기획 단계부터 도입해 고객 맞춤형 공간 경험을 구현하면, 공사 기간 단축과 고객 만족도 향상이라는 두 가지 경쟁 우위를 동시에 확보할 수 있습니다."
+        "title": "4 Ways to Use Artificial Intelligence to Give Your Farm A New Edge - AgWeb",
+        "source": "AgWeb",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWc4UDNVclZWd1JFWk9pZHhtdlBKV25GSWs1WUFBQUk1LUVyU1ZZckV6RE5oN0I1czRWeEVFZnVObDZsTm5PLWQtYWxhWDhEdE9rUzhkRjE2WERpOVdTb2d5LTN0RW5la1ozTlJNaDRYUmwtZ2xYSGdrdGxEOXdFNUR0cnE5aHQzZmVGcjlXR01jSlZIRWgybW5B?oc=5",
+        "published": "2026-04-10",
+        "summary": "AgWeb이 농장에서 AI를 활용하여 경쟁력을 높이는 4가지 방법을 소개합니다. 작물 모니터링, 병해충 조기 감지, 수확량 예측, 자원 최적화 등 실질적인 농업 AI 활용 사례를 제시합니다.",
+        "keywords": ["농업 AI", "스마트팜", "작물 모니터링", "병해충 감지", "AgWeb"],
+        "ai_insight": "농업 AI 활용 사례는 스마트팜 센서 데이터와 연계하면 더욱 강력해지며, AE 신호 분석과 결합한 작물 생육 모니터링이 차별화된 기술 경쟁력이 됩니다."
       }
     ],
     "Global Biz": [
       {
-        "title": "US trade court challenges Trump's basis for 10% global tariffs - Reuters",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWG42MGJmZHdhNEc0VVJpUUFfMzU0aEhtZUV4eG5nakotUTQ4U0ttclFjVURTaDF1OFFYdVNlWVJDa04yV1BTakRrUEI0aWo5VDd2dlp0Umt5TGdsSkNKS2xsb2g1SDVuQzdYa1M1YVpRX3BGNWhpdVA2TU9KUnE3dWZMNldWTW9IVXJCLXVUVFUzcGhCaHNtcWdBaXZWODllVnV0eWtERkQ4dw?oc=5",
-        "published": "Fri, 10 Apr 2026 22:04:18 GMT",
-        "summary": "미국 국제무역법원이 트럼프 행정부의 10% 글로벌 관세 부과 근거에 법적 의문을 제기했습니다. 법원은 행정부가 관세 부과에 사용한 법적 근거의 타당성을 심리 중이며, 이 판결 결과에 따라 미국의 무역 정책 전반이 영향을 받을 수 있습니다. 글로벌 수입 기업들은 관세 불확실성 속에서 법원 동향을 예의주시하고 있습니다.",
-        "keywords": ["트럼프 관세", "국제무역법원", "10% 관세", "무역 정책", "Reuters"],
-        "ai_insight": "미국 수입 의존도가 높은 기업은 법원 판결 결과에 따라 관세율이 변동될 수 있으므로, 공급망 시나리오별 비용 시뮬레이션을 사전에 준비하고 국내 대체 소싱 옵션을 탐색해 두어야 합니다."
+        "title": "부산 아파트값 강보합 지속…수영구 하락세 유지",
+        "source": "연합뉴스",
+        "link": "https://www.yna.co.kr/view/AKR20260410114800051",
+        "published": "2026-04-11",
+        "summary": "정부의 주택시장 규제 강화와 중동전쟁 장기화에 따른 투자심리 위축으로 부산 아파트 매매가격이 강보합세를 유지하고 있습니다. 특히 수영구는 하락세가 지속되어 지역별 차별화가 뚜렷해지고 있습니다.",
+        "keywords": ["부산 부동산", "아파트 시세", "중동 정세", "투자심리", "주택시장"],
+        "ai_insight": "중동 정세 불안이 국내 부동산 시장에까지 영향을 미치고 있어, 경제 불확실성 시기에는 실물 자산보다 기술 기반 사업에 집중하는 전략이 유효합니다."
       },
       {
-        "title": "US Court of International Trade considers challenge to Trump's 10% global tariffs - New York Post",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObERraldJUUlrakk1aldYWUVmWHg1RmxDd1lZT0kwa0NHT1VPb2VaYW9tNGx0RFlJVE5rczdudG1VZVhNOUNoYUpVTlltVllpSndkNnpnNW1nVGFrd2NkX1AyVmhmcV9CYXpCMGtsRmY0eDNyOHppbjkxZ2NlNWNuNnNfZFV3alhKWmllN2Y3MmQ4M2RkeG51QVUtRFRabDRld0hfOHh5QjN2Mk1ZYVdyTlZpTnpEdnZTOHc?oc=5",
-        "published": "Fri, 10 Apr 2026 18:54:07 GMT",
-        "summary": "뉴욕포스트가 미국 국제무역법원에서 트럼프 대통령의 10% 글로벌 관세에 대한 법적 도전을 심리하고 있다고 보도했습니다. 이번 소송은 행정부의 관세 부과 권한 범위를 두고 사법부와 행정부 간 긴장이 고조되고 있음을 반영합니다. 결과에 따라 미국의 무역 상대국들과의 관계에도 파급 효과가 예상됩니다.",
-        "keywords": ["트럼프 관세", "무역법원", "법적 도전", "뉴욕포스트", "글로벌 관세"],
-        "ai_insight": "다국적 공급망을 운영하는 기업은 미국 관세 소송 결과에 따라 수입 전략을 신속히 전환할 수 있도록 법률 자문과 물류 파트너십을 사전에 다각화해 두는 것이 리스크 관리의 핵심입니다."
+        "title": "여주시, 가정의달 5월 지역화폐 인센티브 8→10% 확대",
+        "source": "연합뉴스",
+        "link": "https://www.yna.co.kr/view/AKR20260410071000061",
+        "published": "2026-04-11",
+        "summary": "경기 여주시가 중동 정세 불안에 따른 경제 위기 대응책으로 5월 가정의 달에 지역화폐 인센티브를 기존 8%에서 10%로 확대합니다. 지역 소상공인 매출 활성화와 내수 진작을 목표로 합니다.",
+        "keywords": ["지역화폐", "인센티브", "여주시", "소상공인", "지역경제"],
+        "ai_insight": "지자체의 지역화폐 인센티브 확대는 지역 소상공인 대상 사업에 유리한 환경을 조성하므로, 지역 기반 서비스·제품 판매 전략 수립 시 참고할 만합니다."
       },
       {
-        "title": "Trade court wrestles with Trump's replacement tariffs - Politico",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcjJWcHd3dVY4aFAzZE5CQU9qZFRHYkk3aHN0OWpDanR0Z0lwRkhTQUpJU0RQcjUwbExqUy1FdTVRdHdDMi1pdVZ4ekNqWWw1ZldCcFJPZ3NVX21pb25RTDV2SUhWTDdxc3Y4M1RiaGhlak1XT2Z6bUs0V0R3WlhzU1dOMUl6SmF2S25LV3pKQW9IOUU1ajZEb1lpMzU4dw?oc=5",
-        "published": "Fri, 10 Apr 2026 19:27:07 GMT",
-        "summary": "Politico가 미국 무역법원이 트럼프 행정부의 대체 관세 정책의 법적 유효성을 놓고 씨름하고 있다고 보도했습니다. 법원은 행정부가 기존 관세를 대체한 새로운 관세 체계의 입법 근거를 면밀히 검토 중입니다. 이 과정은 무역 정책의 사법적 통제 한계를 새롭게 설정하는 선례가 될 수 있어 국제 무역계가 주목하고 있습니다.",
-        "keywords": ["트럼프 대체 관세", "무역법원", "Politico", "관세 정책", "사법 통제"],
-        "ai_insight": "글로벌 무역 의존도가 높은 기업은 미국 관세 정책의 사법 검토 결과가 공급망 비용에 미칠 영향을 분기별로 재평가하고, 유연한 소싱 전략과 헤징 구조를 유지하는 것이 필요합니다."
+        "title": "[신상잇슈] 오리온 '초코송이 말차'·롯데칠성음료 '게토레이 런'",
+        "source": "연합뉴스",
+        "link": "https://www.yna.co.kr/view/AKR20260410038500030",
+        "published": "2026-04-11",
+        "summary": "오리온이 한정판이었던 '초코송이 말차'를 정식 출시하고, 롯데칠성음료가 '게토레이 런' 신제품을 선보였습니다. 말차와 건강 음료 트렌드가 식품업계 신제품 출시에 반영되고 있습니다.",
+        "keywords": ["신제품", "오리온", "롯데칠성", "말차", "식품 트렌드"],
+        "ai_insight": "한정판에서 정식 출시로 전환하는 '테스트 마케팅' 전략은 신제품 리스크를 줄이는 효과적 방법으로, 식품·농업 분야 신제품 기획에 참고할 수 있습니다."
       },
       {
-        "title": "Global Trade Update (April 2026): Global trade growth continues, but fragility rises - UN Trade and Development (UNCTAD)",
-        "source": "Google News - Global Economy",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWkJta09NSHJ3dW52RkNaZXlCdmprU3hBdjU4ZlVNY0ozWGowZHFXcDMzX0JpczFJODR3UXNacmlBdzJpcjRvZ2RzcnVpeVFoQ2dDSldaR3dLWm1xS1NpNXBydTZuT082RUE0cjJaWEtxYVRqWVlFclN5V0x0T1RZSEU2dS1rZzVjQl9kN1J5ck5uYkc2SnV4V0I3d19XdWpEVld2Y1FvZi1LdWc?oc=5",
-        "published": "Tue, 07 Apr 2026 12:11:37 GMT",
-        "summary": "UNCTAD의 2026년 4월 글로벌 무역 업데이트에 따르면 글로벌 교역 성장세는 지속되고 있으나 취약성이 증가하고 있습니다. 지정학적 갈등, 관세 불확실성, 공급망 분절화가 주요 리스크 요인으로 지목됐습니다. 신흥국과 선진국 간 무역 불균형이 심화되고 있어 다자 무역 협력의 중요성이 재강조되고 있습니다.",
-        "keywords": ["UNCTAD", "글로벌 무역", "교역 성장", "취약성", "공급망"],
-        "ai_insight": "글로벌 교역 성장이 지속되는 환경에서도 지정학 리스크와 공급망 취약성이 증가하고 있으므로, 수출 중심 기업은 단일 시장 의존에서 벗어나 복수 시장으로 포트폴리오를 분산하는 리스크 헤지 전략이 필수적입니다."
+        "title": "[부동산캘린더] '오티에르 반포' 청약서 서울 역대 최고 경쟁률 나올까",
+        "source": "연합뉴스",
+        "link": "https://www.yna.co.kr/view/AKR20260410156100003",
+        "published": "2026-04-11",
+        "summary": "서울 서초구 잠원동 '오티에르 반포'(신반포 21차 재건축)의 청약이 다음 주 예정되어 서울 역대 최고 경쟁률이 예상됩니다. 강남권 프리미엄 재건축 단지에 대한 수요가 여전히 강세를 보이고 있습니다.",
+        "keywords": ["오티에르 반포", "청약 경쟁률", "재건축", "서울 부동산", "강남"],
+        "ai_insight": "강남 프리미엄 부동산 수요 강세는 고소득층 소비 시장이 여전히 건재함을 보여주며, 프리미엄 제품·서비스 시장의 성장 가능성을 시사합니다."
       }
     ]
   }
